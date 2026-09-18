@@ -1,0 +1,3302 @@
+[
+  {
+    "year": 2025,
+    "school": "上海交大",
+    "groupCode": "B01A1",
+    "groupName": "上海交大(A1)",
+    "score": 567.21,
+    "scoreDisplay": "567.21",
+    "professionalScoreAtCutoff": 261.1,
+    "lastAdmitted": {
+      "chineseMathTotal": 252,
+      "chineseOrMathHigher": 138,
+      "foreignLanguage": 116,
+      "electiveHighest": 67,
+      "electiveSecond": 64,
+      "electiveLowest": 61,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "同济大学",
+    "groupCode": "B02A1",
+    "groupName": "同济大学(A1)",
+    "score": 564.71,
+    "scoreDisplay": "564.71",
+    "professionalScoreAtCutoff": 281.1,
+    "lastAdmitted": {
+      "chineseMathTotal": 214,
+      "chineseOrMathHigher": 116,
+      "foreignLanguage": 108,
+      "electiveHighest": 64,
+      "electiveSecond": 64,
+      "electiveLowest": 61,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "同济大学",
+    "groupCode": "B02A2",
+    "groupName": "同济大学(A2)",
+    "score": 554.47,
+    "scoreDisplay": "554.47",
+    "professionalScoreAtCutoff": 252.7,
+    "lastAdmitted": {
+      "chineseMathTotal": 240,
+      "chineseOrMathHigher": 130,
+      "foreignLanguage": 130,
+      "electiveHighest": 61,
+      "electiveSecond": 61,
+      "electiveLowest": 61,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "华东理工",
+    "groupCode": "B03A1",
+    "groupName": "华东理工(A1)",
+    "score": 520.19,
+    "scoreDisplay": "520.19",
+    "professionalScoreAtCutoff": 252.9,
+    "lastAdmitted": {
+      "chineseMathTotal": 209,
+      "chineseOrMathHigher": 105,
+      "foreignLanguage": 113,
+      "electiveHighest": 58,
+      "electiveSecond": 55,
+      "electiveLowest": 49,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "上海理工",
+    "groupCode": "B04A1",
+    "groupName": "上海理工(A1)",
+    "score": 495.86,
+    "scoreDisplay": "495.86",
+    "professionalScoreAtCutoff": 247.6,
+    "lastAdmitted": {
+      "chineseMathTotal": 186,
+      "chineseOrMathHigher": 105,
+      "foreignLanguage": 93,
+      "electiveHighest": 58,
+      "electiveSecond": 55,
+      "electiveLowest": 55,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "上海海事",
+    "groupCode": "B05A1",
+    "groupName": "上海海事(A1)",
+    "score": 492.76,
+    "scoreDisplay": "492.76",
+    "professionalScoreAtCutoff": 266.6,
+    "lastAdmitted": {
+      "chineseMathTotal": 185,
+      "chineseOrMathHigher": 96,
+      "foreignLanguage": 73,
+      "electiveHighest": 52,
+      "electiveSecond": 49,
+      "electiveLowest": 40,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "东华大学",
+    "groupCode": "B06A1",
+    "groupName": "东华大学(A1)",
+    "score": 521.91,
+    "scoreDisplay": "521.91",
+    "professionalScoreAtCutoff": 268.1,
+    "lastAdmitted": {
+      "chineseMathTotal": 183,
+      "chineseOrMathHigher": 102,
+      "foreignLanguage": 100,
+      "electiveHighest": 61,
+      "electiveSecond": 55,
+      "electiveLowest": 55,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "东华大学",
+    "groupCode": "B06A2",
+    "groupName": "东华大学(A2)",
+    "score": 510.8,
+    "scoreDisplay": "510.80",
+    "professionalScoreAtCutoff": 268.0,
+    "lastAdmitted": {
+      "chineseMathTotal": 194,
+      "chineseOrMathHigher": 105,
+      "foreignLanguage": 97,
+      "electiveHighest": 52,
+      "electiveSecond": 46,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "东华大学",
+    "groupCode": "B06A3",
+    "groupName": "东华大学(A3)",
+    "score": 513.16,
+    "scoreDisplay": "513.16",
+    "professionalScoreAtCutoff": 265.6,
+    "lastAdmitted": {
+      "chineseMathTotal": 207,
+      "chineseOrMathHigher": 105,
+      "foreignLanguage": 79,
+      "electiveHighest": 52,
+      "electiveSecond": 52,
+      "electiveLowest": 52,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "上应大",
+    "groupCode": "B07A1",
+    "groupName": "上应大(A1)",
+    "score": 482.02,
+    "scoreDisplay": "482.02",
+    "professionalScoreAtCutoff": 238.2,
+    "lastAdmitted": {
+      "chineseMathTotal": 189,
+      "chineseOrMathHigher": 99,
+      "foreignLanguage": 83,
+      "electiveHighest": 64,
+      "electiveSecond": 58,
+      "electiveLowest": 46,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "华东师大",
+    "groupCode": "B08A1",
+    "groupName": "华东师大(A1)",
+    "score": 547.81,
+    "scoreDisplay": "547.81",
+    "professionalScoreAtCutoff": 277.1,
+    "lastAdmitted": {
+      "chineseMathTotal": 211,
+      "chineseOrMathHigher": 108,
+      "foreignLanguage": 119,
+      "electiveHighest": 58,
+      "electiveSecond": 49,
+      "electiveLowest": 49,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "上海师大",
+    "groupCode": "B09A1",
+    "groupName": "上海师大(A1)",
+    "score": 504.86,
+    "scoreDisplay": "504.86",
+    "professionalScoreAtCutoff": 232.6,
+    "lastAdmitted": {
+      "chineseMathTotal": 207,
+      "chineseOrMathHigher": 106,
+      "foreignLanguage": 111,
+      "electiveHighest": 64,
+      "electiveSecond": 61,
+      "electiveLowest": 55,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "上海戏剧",
+    "groupCode": "B12A1",
+    "groupName": "上海戏剧(A1)",
+    "score": 517.87,
+    "scoreDisplay": "517.87",
+    "professionalScoreAtCutoff": 261.7,
+    "lastAdmitted": {
+      "chineseMathTotal": 216,
+      "chineseOrMathHigher": 115,
+      "foreignLanguage": 91,
+      "electiveHighest": 58,
+      "electiveSecond": 49,
+      "electiveLowest": 46,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "上海大学",
+    "groupCode": "B13A1",
+    "groupName": "上海大学(A1)",
+    "score": 525.88,
+    "scoreDisplay": "525.88",
+    "professionalScoreAtCutoff": 270.8,
+    "lastAdmitted": {
+      "chineseMathTotal": 197,
+      "chineseOrMathHigher": 101,
+      "foreignLanguage": 82,
+      "electiveHighest": 64,
+      "electiveSecond": 58,
+      "electiveLowest": 55,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "上工程",
+    "groupCode": "B14A1",
+    "groupName": "上工程(A1)",
+    "score": 484.49,
+    "scoreDisplay": "484.49",
+    "professionalScoreAtCutoff": 230.9,
+    "lastAdmitted": {
+      "chineseMathTotal": 201,
+      "chineseOrMathHigher": 109,
+      "foreignLanguage": 119,
+      "electiveHighest": 52,
+      "electiveSecond": 46,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "上工程",
+    "groupCode": "B14A2",
+    "groupName": "上工程(A2)",
+    "score": 472.75,
+    "scoreDisplay": "472.75",
+    "professionalScoreAtCutoff": 252.5,
+    "lastAdmitted": {
+      "chineseMathTotal": 181,
+      "chineseOrMathHigher": 103,
+      "foreignLanguage": 80,
+      "electiveHighest": 46,
+      "electiveSecond": 43,
+      "electiveLowest": 40,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "上海电机",
+    "groupCode": "B15A1",
+    "groupName": "上海电机(A1)",
+    "score": 471.76,
+    "scoreDisplay": "471.76",
+    "professionalScoreAtCutoff": 236.6,
+    "lastAdmitted": {
+      "chineseMathTotal": 173,
+      "chineseOrMathHigher": 97,
+      "foreignLanguage": 70,
+      "electiveHighest": 67,
+      "electiveSecond": 61,
+      "electiveLowest": 52,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "上海杉达",
+    "groupCode": "B16A1",
+    "groupName": "上海杉达(A1)",
+    "score": 443.16,
+    "scoreDisplay": "443.16",
+    "professionalScoreAtCutoff": 215.6,
+    "lastAdmitted": {
+      "chineseMathTotal": 163,
+      "chineseOrMathHigher": 93,
+      "foreignLanguage": 99,
+      "electiveHighest": 58,
+      "electiveSecond": 49,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "上海杉达",
+    "groupCode": "B16A2",
+    "groupName": "上海杉达(A2)",
+    "score": 426.2,
+    "scoreDisplay": "426.20",
+    "professionalScoreAtCutoff": 232.0,
+    "lastAdmitted": {
+      "chineseMathTotal": 151,
+      "chineseOrMathHigher": 89,
+      "foreignLanguage": 50,
+      "electiveHighest": 52,
+      "electiveSecond": 46,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "二工大",
+    "groupCode": "B18A1",
+    "groupName": "二工大(A1)",
+    "score": 478.48,
+    "scoreDisplay": "478.48",
+    "professionalScoreAtCutoff": 236.8,
+    "lastAdmitted": {
+      "chineseMathTotal": 194,
+      "chineseOrMathHigher": 101,
+      "foreignLanguage": 98,
+      "electiveHighest": 49,
+      "electiveSecond": 49,
+      "electiveLowest": 46,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "上海商院",
+    "groupCode": "B19A1",
+    "groupName": "上海商院(A1)",
+    "score": 471.97,
+    "scoreDisplay": "471.97",
+    "professionalScoreAtCutoff": 262.7,
+    "lastAdmitted": {
+      "chineseMathTotal": 162,
+      "chineseOrMathHigher": 90,
+      "foreignLanguage": 66,
+      "electiveHighest": 52,
+      "electiveSecond": 46,
+      "electiveLowest": 40,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "立达学院",
+    "groupCode": "B20A1",
+    "groupName": "立达学院(A1)",
+    "score": 351.2,
+    "scoreDisplay": "351.20",
+    "professionalScoreAtCutoff": 182.0,
+    "lastAdmitted": {
+      "chineseMathTotal": 138,
+      "chineseOrMathHigher": 76,
+      "foreignLanguage": 44,
+      "electiveHighest": 40,
+      "electiveSecond": 40,
+      "electiveLowest": 40,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "建桥学院",
+    "groupCode": "B21A1",
+    "groupName": "建桥学院(A1)",
+    "score": 430.88,
+    "scoreDisplay": "430.88",
+    "professionalScoreAtCutoff": 215.8,
+    "lastAdmitted": {
+      "chineseMathTotal": 179,
+      "chineseOrMathHigher": 92,
+      "foreignLanguage": 73,
+      "electiveHighest": 46,
+      "electiveSecond": 46,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "建桥学院",
+    "groupCode": "B21A2",
+    "groupName": "建桥学院(A2)",
+    "score": 427.15,
+    "scoreDisplay": "427.15",
+    "professionalScoreAtCutoff": 226.5,
+    "lastAdmitted": {
+      "chineseMathTotal": 145,
+      "chineseOrMathHigher": 85,
+      "foreignLanguage": 67,
+      "electiveHighest": 52,
+      "electiveSecond": 46,
+      "electiveLowest": 46,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "中侨大学",
+    "groupCode": "B22A1",
+    "groupName": "中侨大学(A1)",
+    "score": 418.86,
+    "scoreDisplay": "418.86",
+    "professionalScoreAtCutoff": 217.6,
+    "lastAdmitted": {
+      "chineseMathTotal": 163,
+      "chineseOrMathHigher": 96,
+      "foreignLanguage": 52,
+      "electiveHighest": 55,
+      "electiveSecond": 46,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "上海视觉",
+    "groupCode": "B23A1",
+    "groupName": "上海视觉(A1)",
+    "score": 446.86,
+    "scoreDisplay": "446.86",
+    "professionalScoreAtCutoff": 252.6,
+    "lastAdmitted": {
+      "chineseMathTotal": 160,
+      "chineseOrMathHigher": 90,
+      "foreignLanguage": 55,
+      "electiveHighest": 43,
+      "electiveSecond": 40,
+      "electiveLowest": 40,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "上外贤达",
+    "groupCode": "B24A1",
+    "groupName": "上外贤达(A1)",
+    "score": 422.14,
+    "scoreDisplay": "422.14",
+    "professionalScoreAtCutoff": 217.4,
+    "lastAdmitted": {
+      "chineseMathTotal": 170,
+      "chineseOrMathHigher": 93,
+      "foreignLanguage": 61,
+      "electiveHighest": 49,
+      "electiveSecond": 43,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "上师天华",
+    "groupCode": "B25A1",
+    "groupName": "上师天华(A1)",
+    "score": 456.58,
+    "scoreDisplay": "456.58",
+    "professionalScoreAtCutoff": 232.8,
+    "lastAdmitted": {
+      "chineseMathTotal": 157,
+      "chineseOrMathHigher": 93,
+      "foreignLanguage": 85,
+      "electiveHighest": 58,
+      "electiveSecond": 52,
+      "electiveLowest": 49,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "上师天华",
+    "groupCode": "B25A2",
+    "groupName": "上师天华(A2)",
+    "score": 437.75,
+    "scoreDisplay": "437.75",
+    "professionalScoreAtCutoff": 217.5,
+    "lastAdmitted": {
+      "chineseMathTotal": 201,
+      "chineseOrMathHigher": 104,
+      "foreignLanguage": 40,
+      "electiveHighest": 55,
+      "electiveSecond": 52,
+      "electiveLowest": 49,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "上师天华",
+    "groupCode": "B25A3",
+    "groupName": "上师天华(A3)",
+    "score": 437.76,
+    "scoreDisplay": "437.76",
+    "professionalScoreAtCutoff": 241.6,
+    "lastAdmitted": {
+      "chineseMathTotal": 154,
+      "chineseOrMathHigher": 84,
+      "foreignLanguage": 61,
+      "electiveHighest": 46,
+      "electiveSecond": 43,
+      "electiveLowest": 40,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "北京印刷",
+    "groupCode": "B43A1",
+    "groupName": "北京印刷(A1)",
+    "score": 493.77,
+    "scoreDisplay": "493.77",
+    "professionalScoreAtCutoff": 265.7,
+    "lastAdmitted": {
+      "chineseMathTotal": 173,
+      "chineseOrMathHigher": 91,
+      "foreignLanguage": 83,
+      "electiveHighest": 55,
+      "electiveSecond": 46,
+      "electiveLowest": 46,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "北京林大",
+    "groupCode": "B44A1",
+    "groupName": "北京林大(A1)",
+    "score": 516.35,
+    "scoreDisplay": "516.35",
+    "professionalScoreAtCutoff": 258.5,
+    "lastAdmitted": {
+      "chineseMathTotal": 209,
+      "chineseOrMathHigher": 108,
+      "foreignLanguage": 105,
+      "electiveHighest": 55,
+      "electiveSecond": 52,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "中央戏剧",
+    "groupCode": "B51A1",
+    "groupName": "中央戏剧(A1)",
+    "score": 541.07,
+    "scoreDisplay": "541.07",
+    "professionalScoreAtCutoff": 248.7,
+    "lastAdmitted": {
+      "chineseMathTotal": 213,
+      "chineseOrMathHigher": 109,
+      "foreignLanguage": 124,
+      "electiveHighest": 67,
+      "electiveSecond": 67,
+      "electiveLowest": 64,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "天津科大",
+    "groupCode": "B56A1",
+    "groupName": "天津科大(A1)",
+    "score": 473.22,
+    "scoreDisplay": "473.22",
+    "professionalScoreAtCutoff": 230.2,
+    "lastAdmitted": {
+      "chineseMathTotal": 177,
+      "chineseOrMathHigher": 105,
+      "foreignLanguage": 86,
+      "electiveHighest": 64,
+      "electiveSecond": 58,
+      "electiveLowest": 55,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "天津工大",
+    "groupCode": "B57A1",
+    "groupName": "天津工大(A1)",
+    "score": 491.54,
+    "scoreDisplay": "491.54",
+    "professionalScoreAtCutoff": 231.4,
+    "lastAdmitted": {
+      "chineseMathTotal": 202,
+      "chineseOrMathHigher": 101,
+      "foreignLanguage": 104,
+      "electiveHighest": 61,
+      "electiveSecond": 55,
+      "electiveLowest": 52,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "天津师大",
+    "groupCode": "B58A1",
+    "groupName": "天津师大(A1)",
+    "score": 482.09,
+    "scoreDisplay": "482.09",
+    "professionalScoreAtCutoff": 236.9,
+    "lastAdmitted": {
+      "chineseMathTotal": 186,
+      "chineseOrMathHigher": 100,
+      "foreignLanguage": 71,
+      "electiveHighest": 67,
+      "electiveSecond": 64,
+      "electiveLowest": 55,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "辽宁工程",
+    "groupCode": "B61A1",
+    "groupName": "辽宁工程(A1)",
+    "score": 458.8,
+    "scoreDisplay": "458.80",
+    "professionalScoreAtCutoff": 238.0,
+    "lastAdmitted": {
+      "chineseMathTotal": 176,
+      "chineseOrMathHigher": 92,
+      "foreignLanguage": 74,
+      "electiveHighest": 55,
+      "electiveSecond": 46,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "大连工大",
+    "groupCode": "B62A1",
+    "groupName": "大连工大(A1)",
+    "score": 467.41,
+    "scoreDisplay": "467.41",
+    "professionalScoreAtCutoff": 248.1,
+    "lastAdmitted": {
+      "chineseMathTotal": 169,
+      "chineseOrMathHigher": 92,
+      "foreignLanguage": 70,
+      "electiveHighest": 52,
+      "electiveSecond": 52,
+      "electiveLowest": 46,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "吉林艺术",
+    "groupCode": "B65A1",
+    "groupName": "吉林艺术(A1)",
+    "score": 454.99,
+    "scoreDisplay": "454.99",
+    "professionalScoreAtCutoff": 235.9,
+    "lastAdmitted": {
+      "chineseMathTotal": 187,
+      "chineseOrMathHigher": 102,
+      "foreignLanguage": 69,
+      "electiveHighest": 46,
+      "electiveSecond": 46,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "哈工大",
+    "groupCode": "B66A1",
+    "groupName": "哈工大(A1)",
+    "score": 549.89,
+    "scoreDisplay": "549.89",
+    "professionalScoreAtCutoff": 264.9,
+    "lastAdmitted": {
+      "chineseMathTotal": 211,
+      "chineseOrMathHigher": 112,
+      "foreignLanguage": 108,
+      "electiveHighest": 67,
+      "electiveSecond": 67,
+      "electiveLowest": 64,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "苏州大学",
+    "groupCode": "B67A1",
+    "groupName": "苏州大学(A1)",
+    "score": 519.18,
+    "scoreDisplay": "519.18",
+    "professionalScoreAtCutoff": 273.8,
+    "lastAdmitted": {
+      "chineseMathTotal": 167,
+      "chineseOrMathHigher": 98,
+      "foreignLanguage": 101,
+      "electiveHighest": 61,
+      "electiveSecond": 55,
+      "electiveLowest": 52,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "江南大学",
+    "groupCode": "B68A1",
+    "groupName": "江南大学(A1)",
+    "score": 521.31,
+    "scoreDisplay": "521.31",
+    "professionalScoreAtCutoff": 272.1,
+    "lastAdmitted": {
+      "chineseMathTotal": 192,
+      "chineseOrMathHigher": 98,
+      "foreignLanguage": 81,
+      "electiveHighest": 61,
+      "electiveSecond": 55,
+      "electiveLowest": 55,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "江南大学",
+    "groupCode": "B68A2",
+    "groupName": "江南大学(A2)",
+    "score": 517.58,
+    "scoreDisplay": "517.58",
+    "professionalScoreAtCutoff": 262.8,
+    "lastAdmitted": {
+      "chineseMathTotal": 197,
+      "chineseOrMathHigher": 102,
+      "foreignLanguage": 104,
+      "electiveHighest": 55,
+      "electiveSecond": 52,
+      "electiveLowest": 49,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "江南大学",
+    "groupCode": "B68A3",
+    "groupName": "江南大学(A3)",
+    "score": 531.3,
+    "scoreDisplay": "531.30",
+    "professionalScoreAtCutoff": 268.0,
+    "lastAdmitted": {
+      "chineseMathTotal": 190,
+      "chineseOrMathHigher": 103,
+      "foreignLanguage": 106,
+      "electiveHighest": 67,
+      "electiveSecond": 55,
+      "electiveLowest": 55,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "南京信息",
+    "groupCode": "B69A1",
+    "groupName": "南京信息(A1)",
+    "score": 494.87,
+    "scoreDisplay": "494.87",
+    "professionalScoreAtCutoff": 236.7,
+    "lastAdmitted": {
+      "chineseMathTotal": 188,
+      "chineseOrMathHigher": 108,
+      "foreignLanguage": 107,
+      "electiveHighest": 67,
+      "electiveSecond": 58,
+      "electiveLowest": 49,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "南通大学",
+    "groupCode": "B70A1",
+    "groupName": "南通大学(A1)",
+    "score": 489.31,
+    "scoreDisplay": "489.31",
+    "professionalScoreAtCutoff": 247.1,
+    "lastAdmitted": {
+      "chineseMathTotal": 187,
+      "chineseOrMathHigher": 101,
+      "foreignLanguage": 80,
+      "electiveHighest": 67,
+      "electiveSecond": 52,
+      "electiveLowest": 49,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "南京师大",
+    "groupCode": "B71A1",
+    "groupName": "南京师大(A1)",
+    "score": 517.13,
+    "scoreDisplay": "517.13",
+    "professionalScoreAtCutoff": 268.3,
+    "lastAdmitted": {
+      "chineseMathTotal": 202,
+      "chineseOrMathHigher": 111,
+      "foreignLanguage": 104,
+      "electiveHighest": 49,
+      "electiveSecond": 46,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "南京艺术",
+    "groupCode": "B73A1",
+    "groupName": "南京艺术(A1)",
+    "score": 505.76,
+    "scoreDisplay": "505.76",
+    "professionalScoreAtCutoff": 251.6,
+    "lastAdmitted": {
+      "chineseMathTotal": 208,
+      "chineseOrMathHigher": 111,
+      "foreignLanguage": 103,
+      "electiveHighest": 52,
+      "electiveSecond": 49,
+      "electiveLowest": 46,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "苏州科大",
+    "groupCode": "B74A1",
+    "groupName": "苏州科大(A1)",
+    "score": 491.04,
+    "scoreDisplay": "491.04",
+    "professionalScoreAtCutoff": 231.4,
+    "lastAdmitted": {
+      "chineseMathTotal": 172,
+      "chineseOrMathHigher": 92,
+      "foreignLanguage": 100,
+      "electiveHighest": 67,
+      "electiveSecond": 67,
+      "electiveLowest": 67,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "浙江理工",
+    "groupCode": "B75A1",
+    "groupName": "浙江理工(A1)",
+    "score": 490.63,
+    "scoreDisplay": "490.63",
+    "professionalScoreAtCutoff": 243.3,
+    "lastAdmitted": {
+      "chineseMathTotal": 206,
+      "chineseOrMathHigher": 105,
+      "foreignLanguage": 81,
+      "electiveHighest": 58,
+      "electiveSecond": 55,
+      "electiveLowest": 46,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "中国美院",
+    "groupCode": "B76A1",
+    "groupName": "中国美院(A1)",
+    "score": 539.35,
+    "scoreDisplay": "539.35",
+    "professionalScoreAtCutoff": 248.5,
+    "lastAdmitted": {
+      "chineseMathTotal": 223,
+      "chineseOrMathHigher": 118,
+      "foreignLanguage": 129,
+      "electiveHighest": 64,
+      "electiveSecond": 61,
+      "electiveLowest": 55,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "淮北师大",
+    "groupCode": "B78A1",
+    "groupName": "淮北师大(A1)",
+    "score": 470.27,
+    "scoreDisplay": "470.27",
+    "professionalScoreAtCutoff": 260.7,
+    "lastAdmitted": {
+      "chineseMathTotal": 184,
+      "chineseOrMathHigher": 99,
+      "foreignLanguage": 48,
+      "electiveHighest": 49,
+      "electiveSecond": 43,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "厦门大学",
+    "groupCode": "B79A1",
+    "groupName": "厦门大学(A1)",
+    "score": 515.26,
+    "scoreDisplay": "515.26",
+    "professionalScoreAtCutoff": 236.6,
+    "lastAdmitted": {
+      "chineseMathTotal": 226,
+      "chineseOrMathHigher": 114,
+      "foreignLanguage": 116,
+      "electiveHighest": 64,
+      "electiveSecond": 55,
+      "electiveLowest": 49,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "school": "南昌航大",
+    "groupCode": "B80A1",
+    "groupName": "南昌航大(A1)",
+    "score": 469.02,
+    "scoreDisplay": "469.02",
+    "professionalScoreAtCutoff": 243.2,
+    "lastAdmitted": {
+      "chineseMathTotal": 175,
+      "chineseOrMathHigher": 100,
+      "foreignLanguage": 84,
+      "electiveHighest": 49,
+      "electiveSecond": 49,
+      "electiveLowest": 46,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "江西理工",
+    "groupCode": "B81A1",
+    "groupName": "江西理工(A1)",
+    "score": 471.42,
+    "scoreDisplay": "471.42",
+    "professionalScoreAtCutoff": 252.2,
+    "lastAdmitted": {
+      "chineseMathTotal": 168,
+      "chineseOrMathHigher": 100,
+      "foreignLanguage": 73,
+      "electiveHighest": 61,
+      "electiveSecond": 43,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "景德陶瓷",
+    "groupCode": "B82A1",
+    "groupName": "景德陶瓷(A1)",
+    "score": 473.19,
+    "scoreDisplay": "473.19",
+    "professionalScoreAtCutoff": 242.9,
+    "lastAdmitted": {
+      "chineseMathTotal": 192,
+      "chineseOrMathHigher": 99,
+      "foreignLanguage": 64,
+      "electiveHighest": 55,
+      "electiveSecond": 52,
+      "electiveLowest": 49,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "赣南师大",
+    "groupCode": "B84A1",
+    "groupName": "赣南师大(A1)",
+    "score": 469.2,
+    "scoreDisplay": "469.20",
+    "professionalScoreAtCutoff": 252.0,
+    "lastAdmitted": {
+      "chineseMathTotal": 179,
+      "chineseOrMathHigher": 98,
+      "foreignLanguage": 76,
+      "electiveHighest": 43,
+      "electiveSecond": 43,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "井冈山大",
+    "groupCode": "B85A1",
+    "groupName": "井冈山大(A1)",
+    "score": 464.21,
+    "scoreDisplay": "464.21",
+    "professionalScoreAtCutoff": 241.1,
+    "lastAdmitted": {
+      "chineseMathTotal": 186,
+      "chineseOrMathHigher": 95,
+      "foreignLanguage": 80,
+      "electiveHighest": 46,
+      "electiveSecond": 46,
+      "electiveLowest": 40,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "江西财大",
+    "groupCode": "B86A1",
+    "groupName": "江西财大(A1)",
+    "score": 476.09,
+    "scoreDisplay": "476.09",
+    "professionalScoreAtCutoff": 236.9,
+    "lastAdmitted": {
+      "chineseMathTotal": 201,
+      "chineseOrMathHigher": 106,
+      "foreignLanguage": 68,
+      "electiveHighest": 58,
+      "electiveSecond": 55,
+      "electiveLowest": 49,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "山东大学",
+    "groupCode": "B87A1",
+    "groupName": "山东大学(A1)",
+    "score": 525.02,
+    "scoreDisplay": "525.02",
+    "professionalScoreAtCutoff": 248.2,
+    "lastAdmitted": {
+      "chineseMathTotal": 201,
+      "chineseOrMathHigher": 104,
+      "foreignLanguage": 117,
+      "electiveHighest": 67,
+      "electiveSecond": 64,
+      "electiveLowest": 55,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "山东师大",
+    "groupCode": "B88A1",
+    "groupName": "山东师大(A1)",
+    "score": 491.81,
+    "scoreDisplay": "491.81",
+    "professionalScoreAtCutoff": 232.1,
+    "lastAdmitted": {
+      "chineseMathTotal": 224,
+      "chineseOrMathHigher": 120,
+      "foreignLanguage": 78,
+      "electiveHighest": 61,
+      "electiveSecond": 55,
+      "electiveLowest": 55,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "地大武汉",
+    "groupCode": "B92A1",
+    "groupName": "地大武汉(A1)",
+    "score": 506.13,
+    "scoreDisplay": "506.13",
+    "professionalScoreAtCutoff": 268.3,
+    "lastAdmitted": {
+      "chineseMathTotal": 192,
+      "chineseOrMathHigher": 105,
+      "foreignLanguage": 86,
+      "electiveHighest": 52,
+      "electiveSecond": 46,
+      "electiveLowest": 46,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "地大武汉",
+    "groupCode": "B92A2",
+    "groupName": "地大武汉(A2)",
+    "score": 514.59,
+    "scoreDisplay": "514.59",
+    "professionalScoreAtCutoff": 241.9,
+    "lastAdmitted": {
+      "chineseMathTotal": 212,
+      "chineseOrMathHigher": 110,
+      "foreignLanguage": 102,
+      "electiveHighest": 67,
+      "electiveSecond": 61,
+      "electiveLowest": 55,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "武汉纺大",
+    "groupCode": "B93A1",
+    "groupName": "武汉纺大(A1)",
+    "score": 476.15,
+    "scoreDisplay": "476.15",
+    "professionalScoreAtCutoff": 241.5,
+    "lastAdmitted": {
+      "chineseMathTotal": 184,
+      "chineseOrMathHigher": 96,
+      "foreignLanguage": 54,
+      "electiveHighest": 64,
+      "electiveSecond": 64,
+      "electiveLowest": 55,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "武汉轻工",
+    "groupCode": "B94A1",
+    "groupName": "武汉轻工(A1)",
+    "score": 470.69,
+    "scoreDisplay": "470.69",
+    "professionalScoreAtCutoff": 242.9,
+    "lastAdmitted": {
+      "chineseMathTotal": 179,
+      "chineseOrMathHigher": 107,
+      "foreignLanguage": 87,
+      "electiveHighest": 52,
+      "electiveSecond": 46,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "武汉理工",
+    "groupCode": "B95A1",
+    "groupName": "武汉理工(A1)",
+    "score": 511.85,
+    "scoreDisplay": "511.85",
+    "professionalScoreAtCutoff": 228.5,
+    "lastAdmitted": {
+      "chineseMathTotal": 219,
+      "chineseOrMathHigher": 114,
+      "foreignLanguage": 119,
+      "electiveHighest": 67,
+      "electiveSecond": 64,
+      "electiveLowest": 52,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "武汉理工",
+    "groupCode": "B95A2",
+    "groupName": "武汉理工(A2)",
+    "score": 510.9,
+    "scoreDisplay": "510.90",
+    "professionalScoreAtCutoff": 269.0,
+    "lastAdmitted": {
+      "chineseMathTotal": 181,
+      "chineseOrMathHigher": 104,
+      "foreignLanguage": 90,
+      "electiveHighest": 61,
+      "electiveSecond": 49,
+      "electiveLowest": 49,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "湖北工大",
+    "groupCode": "B96A1",
+    "groupName": "湖北工大(A1)",
+    "score": 482.19,
+    "scoreDisplay": "482.19",
+    "professionalScoreAtCutoff": 237.9,
+    "lastAdmitted": {
+      "chineseMathTotal": 200,
+      "chineseOrMathHigher": 103,
+      "foreignLanguage": 64,
+      "electiveHighest": 67,
+      "electiveSecond": 58,
+      "electiveLowest": 52,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "湖北大学",
+    "groupCode": "B97A1",
+    "groupName": "湖北大学(A1)",
+    "score": 481.94,
+    "scoreDisplay": "481.94",
+    "professionalScoreAtCutoff": 265.4,
+    "lastAdmitted": {
+      "chineseMathTotal": 186,
+      "chineseOrMathHigher": 98,
+      "foreignLanguage": 53,
+      "electiveHighest": 49,
+      "electiveSecond": 46,
+      "electiveLowest": 46,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "湖北大学",
+    "groupCode": "B97A2",
+    "groupName": "湖北大学(A2)",
+    "score": 468.69,
+    "scoreDisplay": "468.69",
+    "professionalScoreAtCutoff": 247.9,
+    "lastAdmitted": {
+      "chineseMathTotal": 179,
+      "chineseOrMathHigher": 102,
+      "foreignLanguage": 72,
+      "electiveHighest": 49,
+      "electiveSecond": 49,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "湖北美院",
+    "groupCode": "B98A1",
+    "groupName": "湖北美院(A1)",
+    "score": 491.93,
+    "scoreDisplay": "491.93",
+    "professionalScoreAtCutoff": 246.3,
+    "lastAdmitted": {
+      "chineseMathTotal": 185,
+      "chineseOrMathHigher": 107,
+      "foreignLanguage": 80,
+      "electiveHighest": 64,
+      "electiveSecond": 64,
+      "electiveLowest": 49,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "湘潭大学",
+    "groupCode": "B99A1",
+    "groupName": "湘潭大学(A1)",
+    "score": 486.48,
+    "scoreDisplay": "486.48",
+    "professionalScoreAtCutoff": 256.8,
+    "lastAdmitted": {
+      "chineseMathTotal": 209,
+      "chineseOrMathHigher": 117,
+      "foreignLanguage": 58,
+      "electiveHighest": 49,
+      "electiveSecond": 46,
+      "electiveLowest": 46,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "湖南师大",
+    "groupCode": "C01A1",
+    "groupName": "湖南师大(A1)",
+    "score": 502.85,
+    "scoreDisplay": "502.85",
+    "professionalScoreAtCutoff": 243.5,
+    "lastAdmitted": {
+      "chineseMathTotal": 215,
+      "chineseOrMathHigher": 115,
+      "foreignLanguage": 78,
+      "electiveHighest": 64,
+      "electiveSecond": 58,
+      "electiveLowest": 55,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "湖南理工",
+    "groupCode": "C02A1",
+    "groupName": "湖南理工(A1)",
+    "score": 467.58,
+    "scoreDisplay": "467.58",
+    "professionalScoreAtCutoff": 252.8,
+    "lastAdmitted": {
+      "chineseMathTotal": 163,
+      "chineseOrMathHigher": 93,
+      "foreignLanguage": 54,
+      "electiveHighest": 58,
+      "electiveSecond": 52,
+      "electiveLowest": 52,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "桂林电子",
+    "groupCode": "C07A1",
+    "groupName": "桂林电子(A1)",
+    "score": 468.19,
+    "scoreDisplay": "468.19",
+    "professionalScoreAtCutoff": 232.9,
+    "lastAdmitted": {
+      "chineseMathTotal": 187,
+      "chineseOrMathHigher": 101,
+      "foreignLanguage": 69,
+      "electiveHighest": 58,
+      "electiveSecond": 55,
+      "electiveLowest": 55,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "桂林理工",
+    "groupCode": "C08A1",
+    "groupName": "桂林理工(A1)",
+    "score": 462.17,
+    "scoreDisplay": "462.17",
+    "professionalScoreAtCutoff": 259.7,
+    "lastAdmitted": {
+      "chineseMathTotal": 166,
+      "chineseOrMathHigher": 88,
+      "foreignLanguage": 61,
+      "electiveHighest": 43,
+      "electiveSecond": 43,
+      "electiveLowest": 40,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "广西艺术",
+    "groupCode": "C10A1",
+    "groupName": "广西艺术(A1)",
+    "score": 464.09,
+    "scoreDisplay": "464.09",
+    "professionalScoreAtCutoff": 241.9,
+    "lastAdmitted": {
+      "chineseMathTotal": 181,
+      "chineseOrMathHigher": 95,
+      "foreignLanguage": 71,
+      "electiveHighest": 52,
+      "electiveSecond": 49,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "重庆大学",
+    "groupCode": "C11A1",
+    "groupName": "重庆大学(A1)",
+    "score": 523.52,
+    "scoreDisplay": "523.52",
+    "professionalScoreAtCutoff": 238.2,
+    "lastAdmitted": {
+      "chineseMathTotal": 217,
+      "chineseOrMathHigher": 114,
+      "foreignLanguage": 120,
+      "electiveHighest": 70,
+      "electiveSecond": 61,
+      "electiveLowest": 55,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "西南交大",
+    "groupCode": "C12A1",
+    "groupName": "西南交大(A1)",
+    "score": 512.09,
+    "scoreDisplay": "512.09",
+    "professionalScoreAtCutoff": 261.9,
+    "lastAdmitted": {
+      "chineseMathTotal": 199,
+      "chineseOrMathHigher": 102,
+      "foreignLanguage": 90,
+      "electiveHighest": 58,
+      "electiveSecond": 52,
+      "electiveLowest": 49,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "成都信息",
+    "groupCode": "C13A1",
+    "groupName": "成都信息(A1)",
+    "score": 470.14,
+    "scoreDisplay": "470.14",
+    "professionalScoreAtCutoff": 257.4,
+    "lastAdmitted": {
+      "chineseMathTotal": 165,
+      "chineseOrMathHigher": 93,
+      "foreignLanguage": 71,
+      "electiveHighest": 49,
+      "electiveSecond": 46,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "四川音乐",
+    "groupCode": "C15A1",
+    "groupName": "四川音乐(A1)",
+    "score": 470.48,
+    "scoreDisplay": "470.48",
+    "professionalScoreAtCutoff": 246.8,
+    "lastAdmitted": {
+      "chineseMathTotal": 185,
+      "chineseOrMathHigher": 105,
+      "foreignLanguage": 57,
+      "electiveHighest": 55,
+      "electiveSecond": 55,
+      "electiveLowest": 46,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "四川美院",
+    "groupCode": "C16A1",
+    "groupName": "四川美院(A1)",
+    "score": 539.09,
+    "scoreDisplay": "539.09",
+    "professionalScoreAtCutoff": 256.9,
+    "lastAdmitted": {
+      "chineseMathTotal": 229,
+      "chineseOrMathHigher": 119,
+      "foreignLanguage": 110,
+      "electiveHighest": 67,
+      "electiveSecond": 55,
+      "electiveLowest": 52,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "西南林大",
+    "groupCode": "C17A1",
+    "groupName": "西南林大(A1)",
+    "score": 459.99,
+    "scoreDisplay": "459.99",
+    "professionalScoreAtCutoff": 220.9,
+    "lastAdmitted": {
+      "chineseMathTotal": 190,
+      "chineseOrMathHigher": 98,
+      "foreignLanguage": 85,
+      "electiveHighest": 58,
+      "electiveSecond": 58,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "陕西科大",
+    "groupCode": "C18A1",
+    "groupName": "陕西科大(A1)",
+    "score": 471.07,
+    "scoreDisplay": "471.07",
+    "professionalScoreAtCutoff": 258.7,
+    "lastAdmitted": {
+      "chineseMathTotal": 181,
+      "chineseOrMathHigher": 92,
+      "foreignLanguage": 63,
+      "electiveHighest": 46,
+      "electiveSecond": 43,
+      "electiveLowest": 40,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "西安工程",
+    "groupCode": "C19A1",
+    "groupName": "西安工程(A1)",
+    "score": 466.91,
+    "scoreDisplay": "466.91",
+    "professionalScoreAtCutoff": 228.1,
+    "lastAdmitted": {
+      "chineseMathTotal": 181,
+      "chineseOrMathHigher": 100,
+      "foreignLanguage": 98,
+      "electiveHighest": 55,
+      "electiveSecond": 52,
+      "electiveLowest": 46,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "西安工程",
+    "groupCode": "C19A2",
+    "groupName": "西安工程(A2)",
+    "score": 457.86,
+    "scoreDisplay": "457.86",
+    "professionalScoreAtCutoff": 237.6,
+    "lastAdmitted": {
+      "chineseMathTotal": 173,
+      "chineseOrMathHigher": 99,
+      "foreignLanguage": 70,
+      "electiveHighest": 58,
+      "electiveSecond": 49,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "西安美院",
+    "groupCode": "C21A1",
+    "groupName": "西安美院(A1)",
+    "score": 500.13,
+    "scoreDisplay": "500.13",
+    "professionalScoreAtCutoff": 253.3,
+    "lastAdmitted": {
+      "chineseMathTotal": 197,
+      "chineseOrMathHigher": 104,
+      "foreignLanguage": 63,
+      "electiveHighest": 64,
+      "electiveSecond": 64,
+      "electiveLowest": 55,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "兰州交大",
+    "groupCode": "C22A1",
+    "groupName": "兰州交大(A1)",
+    "score": 461.37,
+    "scoreDisplay": "461.37",
+    "professionalScoreAtCutoff": 251.7,
+    "lastAdmitted": {
+      "chineseMathTotal": 176,
+      "chineseOrMathHigher": 93,
+      "foreignLanguage": 58,
+      "electiveHighest": 52,
+      "electiveSecond": 43,
+      "electiveLowest": 40,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "江西科技",
+    "groupCode": "C24A1",
+    "groupName": "江西科技(A1)",
+    "score": 383.15,
+    "scoreDisplay": "383.15",
+    "professionalScoreAtCutoff": 191.5,
+    "lastAdmitted": {
+      "chineseMathTotal": 151,
+      "chineseOrMathHigher": 87,
+      "foreignLanguage": 65,
+      "electiveHighest": 46,
+      "electiveSecond": 43,
+      "electiveLowest": 40,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "景德学院",
+    "groupCode": "C25A1",
+    "groupName": "景德学院(A1)",
+    "score": 464.92,
+    "scoreDisplay": "464.92",
+    "professionalScoreAtCutoff": 242.2,
+    "lastAdmitted": {
+      "chineseMathTotal": 181,
+      "chineseOrMathHigher": 99,
+      "foreignLanguage": 57,
+      "electiveHighest": 55,
+      "electiveSecond": 52,
+      "electiveLowest": 52,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "黄淮学院",
+    "groupCode": "C26A1",
+    "groupName": "黄淮学院(A1)",
+    "score": 456.14,
+    "scoreDisplay": "456.14",
+    "professionalScoreAtCutoff": 247.4,
+    "lastAdmitted": {
+      "chineseMathTotal": 161,
+      "chineseOrMathHigher": 98,
+      "foreignLanguage": 54,
+      "electiveHighest": 58,
+      "electiveSecond": 49,
+      "electiveLowest": 46,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "平顶学院",
+    "groupCode": "C27A1",
+    "groupName": "平顶学院(A1)",
+    "score": 450.59,
+    "scoreDisplay": "450.59",
+    "professionalScoreAtCutoff": 231.9,
+    "lastAdmitted": {
+      "chineseMathTotal": 169,
+      "chineseOrMathHigher": 95,
+      "foreignLanguage": 72,
+      "electiveHighest": 52,
+      "electiveSecond": 52,
+      "electiveLowest": 46,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "江汉大学",
+    "groupCode": "C28A1",
+    "groupName": "江汉大学(A1)",
+    "score": 471.08,
+    "scoreDisplay": "471.08",
+    "professionalScoreAtCutoff": 242.8,
+    "lastAdmitted": {
+      "chineseMathTotal": 181,
+      "chineseOrMathHigher": 99,
+      "foreignLanguage": 71,
+      "electiveHighest": 55,
+      "electiveSecond": 52,
+      "electiveLowest": 49,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "江汉大学",
+    "groupCode": "C28A2",
+    "groupName": "江汉大学(A2)",
+    "score": 465.59,
+    "scoreDisplay": "465.59",
+    "professionalScoreAtCutoff": 226.9,
+    "lastAdmitted": {
+      "chineseMathTotal": 189,
+      "chineseOrMathHigher": 96,
+      "foreignLanguage": 90,
+      "electiveHighest": 52,
+      "electiveSecond": 52,
+      "electiveLowest": 49,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "江西科师",
+    "groupCode": "C30A1",
+    "groupName": "江西科师(A1)",
+    "score": 468.42,
+    "scoreDisplay": "468.42",
+    "professionalScoreAtCutoff": 242.2,
+    "lastAdmitted": {
+      "chineseMathTotal": 170,
+      "chineseOrMathHigher": 87,
+      "foreignLanguage": 75,
+      "electiveHighest": 58,
+      "electiveSecond": 52,
+      "electiveLowest": 49,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "地大北京",
+    "groupCode": "C31A1",
+    "groupName": "地大北京(A1)",
+    "score": 511.7,
+    "scoreDisplay": "511.70",
+    "professionalScoreAtCutoff": 247.0,
+    "lastAdmitted": {
+      "chineseMathTotal": 201,
+      "chineseOrMathHigher": 104,
+      "foreignLanguage": 93,
+      "electiveHighest": 67,
+      "electiveSecond": 61,
+      "electiveLowest": 58,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "北京城市",
+    "groupCode": "C33A1",
+    "groupName": "北京城市(A1)",
+    "score": 426.42,
+    "scoreDisplay": "426.42",
+    "professionalScoreAtCutoff": 247.2,
+    "lastAdmitted": {
+      "chineseMathTotal": 114,
+      "chineseOrMathHigher": 81,
+      "foreignLanguage": 54,
+      "electiveHighest": 49,
+      "electiveSecond": 49,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "新余学院",
+    "groupCode": "C34A1",
+    "groupName": "新余学院(A1)",
+    "score": 466.58,
+    "scoreDisplay": "466.58",
+    "professionalScoreAtCutoff": 242.8,
+    "lastAdmitted": {
+      "chineseMathTotal": 181,
+      "chineseOrMathHigher": 105,
+      "foreignLanguage": 65,
+      "electiveHighest": 58,
+      "electiveSecond": 49,
+      "electiveLowest": 46,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "湖南工大",
+    "groupCode": "C36A1",
+    "groupName": "湖南工大(A1)",
+    "score": 469.7,
+    "scoreDisplay": "469.70",
+    "professionalScoreAtCutoff": 242.0,
+    "lastAdmitted": {
+      "chineseMathTotal": 182,
+      "chineseOrMathHigher": 93,
+      "foreignLanguage": 66,
+      "electiveHighest": 61,
+      "electiveSecond": 52,
+      "electiveLowest": 46,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "宁波大学",
+    "groupCode": "C37A1",
+    "groupName": "宁波大学(A1)",
+    "score": 499.26,
+    "scoreDisplay": "499.26",
+    "professionalScoreAtCutoff": 236.6,
+    "lastAdmitted": {
+      "chineseMathTotal": 203,
+      "chineseOrMathHigher": 108,
+      "foreignLanguage": 122,
+      "electiveHighest": 55,
+      "electiveSecond": 52,
+      "electiveLowest": 46,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "浙江传媒",
+    "groupCode": "C38A1",
+    "groupName": "浙江传媒(A1)",
+    "score": 499.13,
+    "scoreDisplay": "499.13",
+    "professionalScoreAtCutoff": 238.3,
+    "lastAdmitted": {
+      "chineseMathTotal": 215,
+      "chineseOrMathHigher": 108,
+      "foreignLanguage": 88,
+      "electiveHighest": 67,
+      "electiveSecond": 58,
+      "electiveLowest": 46,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "东湖学院",
+    "groupCode": "C39A1",
+    "groupName": "东湖学院(A1)",
+    "score": 418.6,
+    "scoreDisplay": "418.60",
+    "professionalScoreAtCutoff": 216.0,
+    "lastAdmitted": {
+      "chineseMathTotal": 180,
+      "chineseOrMathHigher": 90,
+      "foreignLanguage": 47,
+      "electiveHighest": 49,
+      "electiveSecond": 43,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "东湖学院",
+    "groupCode": "C39A2",
+    "groupName": "东湖学院(A2)",
+    "score": 399.6,
+    "scoreDisplay": "399.60",
+    "professionalScoreAtCutoff": 186.0,
+    "lastAdmitted": {
+      "chineseMathTotal": 168,
+      "chineseOrMathHigher": 110,
+      "foreignLanguage": 54,
+      "electiveHighest": 61,
+      "electiveSecond": 58,
+      "electiveLowest": 49,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "大连民族",
+    "groupCode": "C40A1",
+    "groupName": "大连民族(A1)",
+    "score": 469.08,
+    "scoreDisplay": "469.08",
+    "professionalScoreAtCutoff": 242.8,
+    "lastAdmitted": {
+      "chineseMathTotal": 187,
+      "chineseOrMathHigher": 100,
+      "foreignLanguage": 67,
+      "electiveHighest": 55,
+      "electiveSecond": 52,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "海口经院",
+    "groupCode": "C41A1",
+    "groupName": "海口经院(A1)",
+    "score": 363.49,
+    "scoreDisplay": "363.49",
+    "professionalScoreAtCutoff": 190.9,
+    "lastAdmitted": {
+      "chineseMathTotal": 132,
+      "chineseOrMathHigher": 92,
+      "foreignLanguage": 49,
+      "electiveHighest": 43,
+      "electiveSecond": 43,
+      "electiveLowest": 40,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "武昌首义",
+    "groupCode": "C42A1",
+    "groupName": "武昌首义(A1)",
+    "score": 436.86,
+    "scoreDisplay": "436.86",
+    "professionalScoreAtCutoff": 252.6,
+    "lastAdmitted": {
+      "chineseMathTotal": 134,
+      "chineseOrMathHigher": 97,
+      "foreignLanguage": 55,
+      "electiveHighest": 46,
+      "electiveSecond": 43,
+      "electiveLowest": 40,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "武昌首义",
+    "groupCode": "C42A2",
+    "groupName": "武昌首义(A2)",
+    "score": 368.66,
+    "scoreDisplay": "368.66",
+    "professionalScoreAtCutoff": 195.6,
+    "lastAdmitted": {
+      "chineseMathTotal": 110,
+      "chineseOrMathHigher": 83,
+      "foreignLanguage": 59,
+      "electiveHighest": 52,
+      "electiveSecond": 46,
+      "electiveLowest": 40,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "重庆城科",
+    "groupCode": "C45A1",
+    "groupName": "重庆城科(A1)",
+    "score": 414.3,
+    "scoreDisplay": "414.30",
+    "professionalScoreAtCutoff": 223.0,
+    "lastAdmitted": {
+      "chineseMathTotal": 151,
+      "chineseOrMathHigher": 85,
+      "foreignLanguage": 58,
+      "electiveHighest": 46,
+      "electiveSecond": 43,
+      "electiveLowest": 40,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "成都东软",
+    "groupCode": "C47A1",
+    "groupName": "成都东软(A1)",
+    "score": 444.04,
+    "scoreDisplay": "444.04",
+    "professionalScoreAtCutoff": 241.4,
+    "lastAdmitted": {
+      "chineseMathTotal": 148,
+      "chineseOrMathHigher": 109,
+      "foreignLanguage": 71,
+      "electiveHighest": 46,
+      "electiveSecond": 46,
+      "electiveLowest": 46,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "河北传媒",
+    "groupCode": "C48A1",
+    "groupName": "河北传媒(A1)",
+    "score": 391.65,
+    "scoreDisplay": "391.65",
+    "professionalScoreAtCutoff": 201.5,
+    "lastAdmitted": {
+      "chineseMathTotal": 154,
+      "chineseOrMathHigher": 97,
+      "foreignLanguage": 60,
+      "electiveHighest": 43,
+      "electiveSecond": 43,
+      "electiveLowest": 40,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "school": "南昌理工",
+    "groupCode": "C49A1",
+    "groupName": "南昌理工(A1)",
+    "score": 432.44,
+    "scoreDisplay": "432.44",
+    "professionalScoreAtCutoff": 220.4,
+    "lastAdmitted": {
+      "chineseMathTotal": 173,
+      "chineseOrMathHigher": 94,
+      "foreignLanguage": 48,
+      "electiveHighest": 55,
+      "electiveSecond": 52,
+      "electiveLowest": 52,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "赣应科院",
+    "groupCode": "C50A1",
+    "groupName": "赣应科院(A1)",
+    "score": 426.09,
+    "scoreDisplay": "426.09",
+    "professionalScoreAtCutoff": 236.9,
+    "lastAdmitted": {
+      "chineseMathTotal": 163,
+      "chineseOrMathHigher": 86,
+      "foreignLanguage": 48,
+      "electiveHighest": 40,
+      "electiveSecond": 40,
+      "electiveLowest": 40,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "武汉晴川",
+    "groupCode": "C51A1",
+    "groupName": "武汉晴川(A1)",
+    "score": 422.69,
+    "scoreDisplay": "422.69",
+    "professionalScoreAtCutoff": 202.9,
+    "lastAdmitted": {
+      "chineseMathTotal": 177,
+      "chineseOrMathHigher": 89,
+      "foreignLanguage": 87,
+      "electiveHighest": 46,
+      "electiveSecond": 46,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "理大城市",
+    "groupCode": "C52A1",
+    "groupName": "理大城市(A1)",
+    "score": 415.26,
+    "scoreDisplay": "415.26",
+    "professionalScoreAtCutoff": 216.6,
+    "lastAdmitted": {
+      "chineseMathTotal": 154,
+      "chineseOrMathHigher": 86,
+      "foreignLanguage": 68,
+      "electiveHighest": 46,
+      "electiveSecond": 43,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "武汉城院",
+    "groupCode": "C53A1",
+    "groupName": "武汉城院(A1)",
+    "score": 433.04,
+    "scoreDisplay": "433.04",
+    "professionalScoreAtCutoff": 211.4,
+    "lastAdmitted": {
+      "chineseMathTotal": 187,
+      "chineseOrMathHigher": 95,
+      "foreignLanguage": 70,
+      "electiveHighest": 55,
+      "electiveSecond": 46,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "文华学院",
+    "groupCode": "C54A1",
+    "groupName": "文华学院(A1)",
+    "score": 429.65,
+    "scoreDisplay": "429.65",
+    "professionalScoreAtCutoff": 226.5,
+    "lastAdmitted": {
+      "chineseMathTotal": 158,
+      "chineseOrMathHigher": 99,
+      "foreignLanguage": 62,
+      "electiveHighest": 49,
+      "electiveSecond": 49,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "滇池学院",
+    "groupCode": "C56A1",
+    "groupName": "滇池学院(A1)",
+    "score": 374.64,
+    "scoreDisplay": "374.64",
+    "professionalScoreAtCutoff": 197.4,
+    "lastAdmitted": {
+      "chineseMathTotal": 138,
+      "chineseOrMathHigher": 86,
+      "foreignLanguage": 42,
+      "electiveHighest": 46,
+      "electiveSecond": 46,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "丽江文旅",
+    "groupCode": "C57A1",
+    "groupName": "丽江文旅(A1)",
+    "score": 367.94,
+    "scoreDisplay": "367.94",
+    "professionalScoreAtCutoff": 185.4,
+    "lastAdmitted": {
+      "chineseMathTotal": 164,
+      "chineseOrMathHigher": 89,
+      "foreignLanguage": 41,
+      "electiveHighest": 43,
+      "electiveSecond": 40,
+      "electiveLowest": 40,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "江西服装",
+    "groupCode": "C59A1",
+    "groupName": "江西服装(A1)",
+    "score": 385.69,
+    "scoreDisplay": "385.69",
+    "professionalScoreAtCutoff": 202.9,
+    "lastAdmitted": {
+      "chineseMathTotal": 112,
+      "chineseOrMathHigher": 89,
+      "foreignLanguage": 72,
+      "electiveHighest": 49,
+      "electiveSecond": 46,
+      "electiveLowest": 46,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "南航科技",
+    "groupCode": "C60A1",
+    "groupName": "南航科技(A1)",
+    "score": 451.54,
+    "scoreDisplay": "451.54",
+    "professionalScoreAtCutoff": 241.4,
+    "lastAdmitted": {
+      "chineseMathTotal": 167,
+      "chineseOrMathHigher": 99,
+      "foreignLanguage": 61,
+      "electiveHighest": 52,
+      "electiveSecond": 49,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "景艺职大",
+    "groupCode": "C61A1",
+    "groupName": "景艺职大(A1)",
+    "score": 377.48,
+    "scoreDisplay": "377.48",
+    "professionalScoreAtCutoff": 201.8,
+    "lastAdmitted": {
+      "chineseMathTotal": 126,
+      "chineseOrMathHigher": 100,
+      "foreignLanguage": 50,
+      "electiveHighest": 49,
+      "electiveSecond": 43,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "江师科技",
+    "groupCode": "C62A1",
+    "groupName": "江师科技(A1)",
+    "score": 441.97,
+    "scoreDisplay": "441.97",
+    "professionalScoreAtCutoff": 227.7,
+    "lastAdmitted": {
+      "chineseMathTotal": 160,
+      "chineseOrMathHigher": 88,
+      "foreignLanguage": 67,
+      "electiveHighest": 61,
+      "electiveSecond": 49,
+      "electiveLowest": 46,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "厦大嘉庚",
+    "groupCode": "C63A1",
+    "groupName": "厦大嘉庚(A1)",
+    "score": 464.09,
+    "scoreDisplay": "464.09",
+    "professionalScoreAtCutoff": 236.9,
+    "lastAdmitted": {
+      "chineseMathTotal": 185,
+      "chineseOrMathHigher": 105,
+      "foreignLanguage": 72,
+      "electiveHighest": 52,
+      "electiveSecond": 49,
+      "electiveLowest": 49,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "北海艺术",
+    "groupCode": "C64A1",
+    "groupName": "北海艺术(A1)",
+    "score": 351.49,
+    "scoreDisplay": "351.49",
+    "professionalScoreAtCutoff": 180.9,
+    "lastAdmitted": {
+      "chineseMathTotal": 125,
+      "chineseOrMathHigher": 78,
+      "foreignLanguage": 54,
+      "electiveHighest": 46,
+      "electiveSecond": 40,
+      "electiveLowest": 40,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "太湖学院",
+    "groupCode": "C65A1",
+    "groupName": "太湖学院(A1)",
+    "score": 438.32,
+    "scoreDisplay": "438.32",
+    "professionalScoreAtCutoff": 241.2,
+    "lastAdmitted": {
+      "chineseMathTotal": 169,
+      "chineseOrMathHigher": 92,
+      "foreignLanguage": 42,
+      "electiveHighest": 49,
+      "electiveSecond": 43,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "重庆外事",
+    "groupCode": "C66A1",
+    "groupName": "重庆外事(A1)",
+    "score": 387.55,
+    "scoreDisplay": "387.55",
+    "professionalScoreAtCutoff": 200.5,
+    "lastAdmitted": {
+      "chineseMathTotal": 141,
+      "chineseOrMathHigher": 84,
+      "foreignLanguage": 64,
+      "electiveHighest": 43,
+      "electiveSecond": 43,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "大连艺术",
+    "groupCode": "C67A1",
+    "groupName": "大连艺术(A1)",
+    "score": 425.26,
+    "scoreDisplay": "425.26",
+    "professionalScoreAtCutoff": 236.6,
+    "lastAdmitted": {
+      "chineseMathTotal": 150,
+      "chineseOrMathHigher": 87,
+      "foreignLanguage": 45,
+      "electiveHighest": 49,
+      "electiveSecond": 43,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "吉林动画",
+    "groupCode": "C68A1",
+    "groupName": "吉林动画(A1)",
+    "score": 363.41,
+    "scoreDisplay": "363.41",
+    "professionalScoreAtCutoff": 188.1,
+    "lastAdmitted": {
+      "chineseMathTotal": 133,
+      "chineseOrMathHigher": 87,
+      "foreignLanguage": 54,
+      "electiveHighest": 43,
+      "electiveSecond": 43,
+      "electiveLowest": 40,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "吉林动画",
+    "groupCode": "C68A2",
+    "groupName": "吉林动画(A2)",
+    "score": 363.92,
+    "scoreDisplay": "363.92",
+    "professionalScoreAtCutoff": 192.2,
+    "lastAdmitted": {
+      "chineseMathTotal": 128,
+      "chineseOrMathHigher": 80,
+      "foreignLanguage": 45,
+      "electiveHighest": 46,
+      "electiveSecond": 46,
+      "electiveLowest": 40,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "首师科德",
+    "groupCode": "C69A1",
+    "groupName": "首师科德(A1)",
+    "score": 388.59,
+    "scoreDisplay": "388.59",
+    "professionalScoreAtCutoff": 211.9,
+    "lastAdmitted": {
+      "chineseMathTotal": 146,
+      "chineseOrMathHigher": 84,
+      "foreignLanguage": 42,
+      "electiveHighest": 43,
+      "electiveSecond": 40,
+      "electiveLowest": 40,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "津商宝德",
+    "groupCode": "C71A1",
+    "groupName": "津商宝德(A1)",
+    "score": 423.86,
+    "scoreDisplay": "423.86",
+    "professionalScoreAtCutoff": 212.6,
+    "lastAdmitted": {
+      "chineseMathTotal": 164,
+      "chineseOrMathHigher": 89,
+      "foreignLanguage": 81,
+      "electiveHighest": 49,
+      "electiveSecond": 46,
+      "electiveLowest": 40,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "武汉工科",
+    "groupCode": "C72A1",
+    "groupName": "武汉工科(A1)",
+    "score": 410.03,
+    "scoreDisplay": "410.03",
+    "professionalScoreAtCutoff": 207.3,
+    "lastAdmitted": {
+      "chineseMathTotal": 143,
+      "chineseOrMathHigher": 86,
+      "foreignLanguage": 71,
+      "electiveHighest": 55,
+      "electiveSecond": 49,
+      "electiveLowest": 46,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "武汉华夏",
+    "groupCode": "C73A1",
+    "groupName": "武汉华夏(A1)",
+    "score": 428.36,
+    "scoreDisplay": "428.36",
+    "professionalScoreAtCutoff": 217.6,
+    "lastAdmitted": {
+      "chineseMathTotal": 177,
+      "chineseOrMathHigher": 93,
+      "foreignLanguage": 60,
+      "electiveHighest": 49,
+      "electiveSecond": 49,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "武汉华夏",
+    "groupCode": "C73A2",
+    "groupName": "武汉华夏(A2)",
+    "score": 387.04,
+    "scoreDisplay": "387.04",
+    "professionalScoreAtCutoff": 211.4,
+    "lastAdmitted": {
+      "chineseMathTotal": 141,
+      "chineseOrMathHigher": 84,
+      "foreignLanguage": 42,
+      "electiveHighest": 43,
+      "electiveSecond": 43,
+      "electiveLowest": 40,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "四川传媒",
+    "groupCode": "C74A1",
+    "groupName": "四川传媒(A1)",
+    "score": 445.21,
+    "scoreDisplay": "445.21",
+    "professionalScoreAtCutoff": 216.1,
+    "lastAdmitted": {
+      "chineseMathTotal": 193,
+      "chineseOrMathHigher": 97,
+      "foreignLanguage": 90,
+      "electiveHighest": 46,
+      "electiveSecond": 43,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "四川传媒",
+    "groupCode": "C74A2",
+    "groupName": "四川传媒(A2)",
+    "score": 414.08,
+    "scoreDisplay": "414.08",
+    "professionalScoreAtCutoff": 207.8,
+    "lastAdmitted": {
+      "chineseMathTotal": 145,
+      "chineseOrMathHigher": 90,
+      "foreignLanguage": 85,
+      "electiveHighest": 52,
+      "electiveSecond": 46,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "四川工商",
+    "groupCode": "C76A1",
+    "groupName": "四川工商(A1)",
+    "score": 420.07,
+    "scoreDisplay": "420.07",
+    "professionalScoreAtCutoff": 223.7,
+    "lastAdmitted": {
+      "chineseMathTotal": 151,
+      "chineseOrMathHigher": 88,
+      "foreignLanguage": 47,
+      "electiveHighest": 55,
+      "electiveSecond": 49,
+      "electiveLowest": 46,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "南京传媒",
+    "groupCode": "C78A1",
+    "groupName": "南京传媒(A1)",
+    "score": 468.03,
+    "scoreDisplay": "468.03",
+    "professionalScoreAtCutoff": 222.3,
+    "lastAdmitted": {
+      "chineseMathTotal": 212,
+      "chineseOrMathHigher": 117,
+      "foreignLanguage": 79,
+      "electiveHighest": 58,
+      "electiveSecond": 49,
+      "electiveLowest": 49,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "福州外贸",
+    "groupCode": "C79A1",
+    "groupName": "福州外贸(A1)",
+    "score": 387.37,
+    "scoreDisplay": "387.37",
+    "professionalScoreAtCutoff": 206.7,
+    "lastAdmitted": {
+      "chineseMathTotal": 117,
+      "chineseOrMathHigher": 94,
+      "foreignLanguage": 71,
+      "electiveHighest": 46,
+      "electiveSecond": 43,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "南师泰州",
+    "groupCode": "C80A1",
+    "groupName": "南师泰州(A1)",
+    "score": 452.54,
+    "scoreDisplay": "452.54",
+    "professionalScoreAtCutoff": 251.4,
+    "lastAdmitted": {
+      "chineseMathTotal": 172,
+      "chineseOrMathHigher": 93,
+      "foreignLanguage": 48,
+      "electiveHighest": 46,
+      "electiveSecond": 43,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "京工耿丹",
+    "groupCode": "C82A1",
+    "groupName": "京工耿丹(A1)",
+    "score": 372.02,
+    "scoreDisplay": "372.02",
+    "professionalScoreAtCutoff": 198.2,
+    "lastAdmitted": {
+      "chineseMathTotal": 143,
+      "chineseOrMathHigher": 73,
+      "foreignLanguage": 42,
+      "electiveHighest": 43,
+      "electiveSecond": 40,
+      "electiveLowest": 40,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "无锡学院",
+    "groupCode": "C83A1",
+    "groupName": "无锡学院(A1)",
+    "score": 471.68,
+    "scoreDisplay": "471.68",
+    "professionalScoreAtCutoff": 243.8,
+    "lastAdmitted": {
+      "chineseMathTotal": 166,
+      "chineseOrMathHigher": 96,
+      "foreignLanguage": 94,
+      "electiveHighest": 52,
+      "electiveSecond": 49,
+      "electiveLowest": 46,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "无锡学院",
+    "groupCode": "C83A2",
+    "groupName": "无锡学院(A2)",
+    "score": 469.8,
+    "scoreDisplay": "469.80",
+    "professionalScoreAtCutoff": 258.0,
+    "lastAdmitted": {
+      "chineseMathTotal": 167,
+      "chineseOrMathHigher": 88,
+      "foreignLanguage": 61,
+      "electiveHighest": 55,
+      "electiveSecond": 46,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "四川文艺",
+    "groupCode": "C84A1",
+    "groupName": "四川文艺(A1)",
+    "score": 426.16,
+    "scoreDisplay": "426.16",
+    "professionalScoreAtCutoff": 235.6,
+    "lastAdmitted": {
+      "chineseMathTotal": 156,
+      "chineseOrMathHigher": 85,
+      "foreignLanguage": 43,
+      "electiveHighest": 46,
+      "electiveSecond": 46,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "青岛电影",
+    "groupCode": "C85A1",
+    "groupName": "青岛电影(A1)",
+    "score": 407.87,
+    "scoreDisplay": "407.87",
+    "professionalScoreAtCutoff": 211.7,
+    "lastAdmitted": {
+      "chineseMathTotal": 176,
+      "chineseOrMathHigher": 92,
+      "foreignLanguage": 45,
+      "electiveHighest": 43,
+      "electiveSecond": 43,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "南昌师院",
+    "groupCode": "C87A1",
+    "groupName": "南昌师院(A1)",
+    "score": 465.65,
+    "scoreDisplay": "465.65",
+    "professionalScoreAtCutoff": 256.5,
+    "lastAdmitted": {
+      "chineseMathTotal": 166,
+      "chineseOrMathHigher": 99,
+      "foreignLanguage": 72,
+      "electiveHighest": 46,
+      "electiveSecond": 43,
+      "electiveLowest": 40,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "河南大学",
+    "groupCode": "C93A1",
+    "groupName": "河南大学(A1)",
+    "score": 482.65,
+    "scoreDisplay": "482.65",
+    "professionalScoreAtCutoff": 226.5,
+    "lastAdmitted": {
+      "chineseMathTotal": 210,
+      "chineseOrMathHigher": 107,
+      "foreignLanguage": 89,
+      "electiveHighest": 61,
+      "electiveSecond": 55,
+      "electiveLowest": 52,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "郑州航空",
+    "groupCode": "C94A1",
+    "groupName": "郑州航空(A1)",
+    "score": 453.25,
+    "scoreDisplay": "453.25",
+    "professionalScoreAtCutoff": 242.5,
+    "lastAdmitted": {
+      "chineseMathTotal": 157,
+      "chineseOrMathHigher": 91,
+      "foreignLanguage": 51,
+      "electiveHighest": 64,
+      "electiveSecond": 52,
+      "electiveLowest": 49,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "江西工程",
+    "groupCode": "C96A1",
+    "groupName": "江西工程(A1)",
+    "score": 416.25,
+    "scoreDisplay": "416.25",
+    "professionalScoreAtCutoff": 212.5,
+    "lastAdmitted": {
+      "chineseMathTotal": 171,
+      "chineseOrMathHigher": 86,
+      "foreignLanguage": 62,
+      "electiveHighest": 46,
+      "electiveSecond": 43,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "school": "广州商院",
+    "groupCode": "C99A1",
+    "groupName": "广州商院(A1)",
+    "score": 416.59,
+    "scoreDisplay": "416.59",
+    "professionalScoreAtCutoff": 196.9,
+    "lastAdmitted": {
+      "chineseMathTotal": 182,
+      "chineseOrMathHigher": 101,
+      "foreignLanguage": 71,
+      "electiveHighest": 55,
+      "electiveSecond": 49,
+      "electiveLowest": 43,
+      "bonus": 0
+    },
+    "source": {
+      "file": "01.pdf",
+      "page": 3
+    }
+  }
+]

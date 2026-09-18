@@ -1,0 +1,2666 @@
+[
+  {
+    "year": 2025,
+    "scoreMin": 576.0,
+    "scoreMax": 660,
+    "count": 11,
+    "cumulative": 11,
+    "scoreDisplay": "576.0000+",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 574.0,
+    "scoreMax": 574.9999,
+    "count": 1,
+    "cumulative": 12,
+    "scoreDisplay": "574.0000–574.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 573.0,
+    "scoreMax": 573.9999,
+    "count": 3,
+    "cumulative": 15,
+    "scoreDisplay": "573.0000–573.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 571.0,
+    "scoreMax": 571.9999,
+    "count": 1,
+    "cumulative": 16,
+    "scoreDisplay": "571.0000–571.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 570.0,
+    "scoreMax": 570.9999,
+    "count": 4,
+    "cumulative": 20,
+    "scoreDisplay": "570.0000–570.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 569.0,
+    "scoreMax": 569.9999,
+    "count": 1,
+    "cumulative": 21,
+    "scoreDisplay": "569.0000–569.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 568.0,
+    "scoreMax": 568.9999,
+    "count": 3,
+    "cumulative": 24,
+    "scoreDisplay": "568.0000–568.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 567.0,
+    "scoreMax": 567.9999,
+    "count": 3,
+    "cumulative": 27,
+    "scoreDisplay": "567.0000–567.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 566.0,
+    "scoreMax": 566.9999,
+    "count": 3,
+    "cumulative": 30,
+    "scoreDisplay": "566.0000–566.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 565.0,
+    "scoreMax": 565.9999,
+    "count": 1,
+    "cumulative": 31,
+    "scoreDisplay": "565.0000–565.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 564.0,
+    "scoreMax": 564.9999,
+    "count": 3,
+    "cumulative": 34,
+    "scoreDisplay": "564.0000–564.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 563.0,
+    "scoreMax": 563.9999,
+    "count": 4,
+    "cumulative": 38,
+    "scoreDisplay": "563.0000–563.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 562.0,
+    "scoreMax": 562.9999,
+    "count": 4,
+    "cumulative": 42,
+    "scoreDisplay": "562.0000–562.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 561.0,
+    "scoreMax": 561.9999,
+    "count": 6,
+    "cumulative": 48,
+    "scoreDisplay": "561.0000–561.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 560.0,
+    "scoreMax": 560.9999,
+    "count": 5,
+    "cumulative": 53,
+    "scoreDisplay": "560.0000–560.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 559.0,
+    "scoreMax": 559.9999,
+    "count": 4,
+    "cumulative": 57,
+    "scoreDisplay": "559.0000–559.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 558.0,
+    "scoreMax": 558.9999,
+    "count": 6,
+    "cumulative": 63,
+    "scoreDisplay": "558.0000–558.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 557.0,
+    "scoreMax": 557.9999,
+    "count": 2,
+    "cumulative": 65,
+    "scoreDisplay": "557.0000–557.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 556.0,
+    "scoreMax": 556.9999,
+    "count": 2,
+    "cumulative": 67,
+    "scoreDisplay": "556.0000–556.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 555.0,
+    "scoreMax": 555.9999,
+    "count": 3,
+    "cumulative": 70,
+    "scoreDisplay": "555.0000–555.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 554.0,
+    "scoreMax": 554.9999,
+    "count": 3,
+    "cumulative": 73,
+    "scoreDisplay": "554.0000–554.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 553.0,
+    "scoreMax": 553.9999,
+    "count": 5,
+    "cumulative": 78,
+    "scoreDisplay": "553.0000–553.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 552.0,
+    "scoreMax": 552.9999,
+    "count": 4,
+    "cumulative": 82,
+    "scoreDisplay": "552.0000–552.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 551.0,
+    "scoreMax": 551.9999,
+    "count": 4,
+    "cumulative": 86,
+    "scoreDisplay": "551.0000–551.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 550.0,
+    "scoreMax": 550.9999,
+    "count": 4,
+    "cumulative": 90,
+    "scoreDisplay": "550.0000–550.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 549.0,
+    "scoreMax": 549.9999,
+    "count": 7,
+    "cumulative": 97,
+    "scoreDisplay": "549.0000–549.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 548.0,
+    "scoreMax": 548.9999,
+    "count": 8,
+    "cumulative": 105,
+    "scoreDisplay": "548.0000–548.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 547.0,
+    "scoreMax": 547.9999,
+    "count": 4,
+    "cumulative": 109,
+    "scoreDisplay": "547.0000–547.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 546.0,
+    "scoreMax": 546.9999,
+    "count": 13,
+    "cumulative": 122,
+    "scoreDisplay": "546.0000–546.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 545.0,
+    "scoreMax": 545.9999,
+    "count": 3,
+    "cumulative": 125,
+    "scoreDisplay": "545.0000–545.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 544.0,
+    "scoreMax": 544.9999,
+    "count": 5,
+    "cumulative": 130,
+    "scoreDisplay": "544.0000–544.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 542.0,
+    "scoreMax": 542.9999,
+    "count": 5,
+    "cumulative": 135,
+    "scoreDisplay": "542.0000–542.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 541.0,
+    "scoreMax": 541.9999,
+    "count": 5,
+    "cumulative": 140,
+    "scoreDisplay": "541.0000–541.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 540.0,
+    "scoreMax": 540.9999,
+    "count": 6,
+    "cumulative": 146,
+    "scoreDisplay": "540.0000–540.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 539.0,
+    "scoreMax": 539.9999,
+    "count": 10,
+    "cumulative": 156,
+    "scoreDisplay": "539.0000–539.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 538.0,
+    "scoreMax": 538.9999,
+    "count": 4,
+    "cumulative": 160,
+    "scoreDisplay": "538.0000–538.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 537.0,
+    "scoreMax": 537.9999,
+    "count": 7,
+    "cumulative": 167,
+    "scoreDisplay": "537.0000–537.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 536.0,
+    "scoreMax": 536.9999,
+    "count": 10,
+    "cumulative": 177,
+    "scoreDisplay": "536.0000–536.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 535.0,
+    "scoreMax": 535.9999,
+    "count": 12,
+    "cumulative": 189,
+    "scoreDisplay": "535.0000–535.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 534.0,
+    "scoreMax": 534.9999,
+    "count": 6,
+    "cumulative": 195,
+    "scoreDisplay": "534.0000–534.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 533.0,
+    "scoreMax": 533.9999,
+    "count": 11,
+    "cumulative": 206,
+    "scoreDisplay": "533.0000–533.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 532.0,
+    "scoreMax": 532.9999,
+    "count": 8,
+    "cumulative": 214,
+    "scoreDisplay": "532.0000–532.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 531.0,
+    "scoreMax": 531.9999,
+    "count": 20,
+    "cumulative": 234,
+    "scoreDisplay": "531.0000–531.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 530.0,
+    "scoreMax": 530.9999,
+    "count": 14,
+    "cumulative": 248,
+    "scoreDisplay": "530.0000–530.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 529.0,
+    "scoreMax": 529.9999,
+    "count": 15,
+    "cumulative": 263,
+    "scoreDisplay": "529.0000–529.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 528.0,
+    "scoreMax": 528.9999,
+    "count": 17,
+    "cumulative": 280,
+    "scoreDisplay": "528.0000–528.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 527.0,
+    "scoreMax": 527.9999,
+    "count": 16,
+    "cumulative": 296,
+    "scoreDisplay": "527.0000–527.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 526.0,
+    "scoreMax": 526.9999,
+    "count": 17,
+    "cumulative": 313,
+    "scoreDisplay": "526.0000–526.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 525.0,
+    "scoreMax": 525.9999,
+    "count": 9,
+    "cumulative": 322,
+    "scoreDisplay": "525.0000–525.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 524.0,
+    "scoreMax": 524.9999,
+    "count": 10,
+    "cumulative": 332,
+    "scoreDisplay": "524.0000–524.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 523.0,
+    "scoreMax": 523.9999,
+    "count": 14,
+    "cumulative": 346,
+    "scoreDisplay": "523.0000–523.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 522.0,
+    "scoreMax": 522.9999,
+    "count": 9,
+    "cumulative": 355,
+    "scoreDisplay": "522.0000–522.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 521.0,
+    "scoreMax": 521.9999,
+    "count": 14,
+    "cumulative": 369,
+    "scoreDisplay": "521.0000–521.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 1
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 520.0,
+    "scoreMax": 520.9999,
+    "count": 19,
+    "cumulative": 388,
+    "scoreDisplay": "520.0000–520.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 519.0,
+    "scoreMax": 519.9999,
+    "count": 10,
+    "cumulative": 398,
+    "scoreDisplay": "519.0000–519.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 518.0,
+    "scoreMax": 518.9999,
+    "count": 18,
+    "cumulative": 416,
+    "scoreDisplay": "518.0000–518.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 517.0,
+    "scoreMax": 517.9999,
+    "count": 15,
+    "cumulative": 431,
+    "scoreDisplay": "517.0000–517.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 516.0,
+    "scoreMax": 516.9999,
+    "count": 9,
+    "cumulative": 440,
+    "scoreDisplay": "516.0000–516.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 515.0,
+    "scoreMax": 515.9999,
+    "count": 12,
+    "cumulative": 452,
+    "scoreDisplay": "515.0000–515.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 514.0,
+    "scoreMax": 514.9999,
+    "count": 20,
+    "cumulative": 472,
+    "scoreDisplay": "514.0000–514.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 513.0,
+    "scoreMax": 513.9999,
+    "count": 10,
+    "cumulative": 482,
+    "scoreDisplay": "513.0000–513.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 512.0,
+    "scoreMax": 512.9999,
+    "count": 13,
+    "cumulative": 495,
+    "scoreDisplay": "512.0000–512.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 511.0,
+    "scoreMax": 511.9999,
+    "count": 14,
+    "cumulative": 509,
+    "scoreDisplay": "511.0000–511.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 510.0,
+    "scoreMax": 510.9999,
+    "count": 18,
+    "cumulative": 527,
+    "scoreDisplay": "510.0000–510.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 509.0,
+    "scoreMax": 509.9999,
+    "count": 18,
+    "cumulative": 545,
+    "scoreDisplay": "509.0000–509.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 508.0,
+    "scoreMax": 508.9999,
+    "count": 17,
+    "cumulative": 562,
+    "scoreDisplay": "508.0000–508.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 507.0,
+    "scoreMax": 507.9999,
+    "count": 12,
+    "cumulative": 574,
+    "scoreDisplay": "507.0000–507.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 506.0,
+    "scoreMax": 506.9999,
+    "count": 20,
+    "cumulative": 594,
+    "scoreDisplay": "506.0000–506.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 505.0,
+    "scoreMax": 505.9999,
+    "count": 21,
+    "cumulative": 615,
+    "scoreDisplay": "505.0000–505.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 504.0,
+    "scoreMax": 504.9999,
+    "count": 18,
+    "cumulative": 633,
+    "scoreDisplay": "504.0000–504.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 503.0,
+    "scoreMax": 503.9999,
+    "count": 26,
+    "cumulative": 659,
+    "scoreDisplay": "503.0000–503.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 502.0,
+    "scoreMax": 502.9999,
+    "count": 27,
+    "cumulative": 686,
+    "scoreDisplay": "502.0000–502.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 501.0,
+    "scoreMax": 501.9999,
+    "count": 33,
+    "cumulative": 719,
+    "scoreDisplay": "501.0000–501.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 500.0,
+    "scoreMax": 500.9999,
+    "count": 35,
+    "cumulative": 754,
+    "scoreDisplay": "500.0000–500.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 499.0,
+    "scoreMax": 499.9999,
+    "count": 22,
+    "cumulative": 776,
+    "scoreDisplay": "499.0000–499.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 498.0,
+    "scoreMax": 498.9999,
+    "count": 26,
+    "cumulative": 802,
+    "scoreDisplay": "498.0000–498.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 497.0,
+    "scoreMax": 497.9999,
+    "count": 17,
+    "cumulative": 819,
+    "scoreDisplay": "497.0000–497.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 496.0,
+    "scoreMax": 496.9999,
+    "count": 29,
+    "cumulative": 848,
+    "scoreDisplay": "496.0000–496.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 495.0,
+    "scoreMax": 495.9999,
+    "count": 26,
+    "cumulative": 874,
+    "scoreDisplay": "495.0000–495.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 494.0,
+    "scoreMax": 494.9999,
+    "count": 34,
+    "cumulative": 908,
+    "scoreDisplay": "494.0000–494.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 493.0,
+    "scoreMax": 493.9999,
+    "count": 32,
+    "cumulative": 940,
+    "scoreDisplay": "493.0000–493.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 492.0,
+    "scoreMax": 492.9999,
+    "count": 28,
+    "cumulative": 968,
+    "scoreDisplay": "492.0000–492.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 491.0,
+    "scoreMax": 491.9999,
+    "count": 32,
+    "cumulative": 1000,
+    "scoreDisplay": "491.0000–491.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 490.0,
+    "scoreMax": 490.9999,
+    "count": 34,
+    "cumulative": 1034,
+    "scoreDisplay": "490.0000–490.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 489.0,
+    "scoreMax": 489.9999,
+    "count": 24,
+    "cumulative": 1058,
+    "scoreDisplay": "489.0000–489.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 488.0,
+    "scoreMax": 488.9999,
+    "count": 32,
+    "cumulative": 1090,
+    "scoreDisplay": "488.0000–488.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 487.0,
+    "scoreMax": 487.9999,
+    "count": 37,
+    "cumulative": 1127,
+    "scoreDisplay": "487.0000–487.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 486.0,
+    "scoreMax": 486.9999,
+    "count": 29,
+    "cumulative": 1156,
+    "scoreDisplay": "486.0000–486.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 485.0,
+    "scoreMax": 485.9999,
+    "count": 32,
+    "cumulative": 1188,
+    "scoreDisplay": "485.0000–485.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 484.0,
+    "scoreMax": 484.9999,
+    "count": 38,
+    "cumulative": 1226,
+    "scoreDisplay": "484.0000–484.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 483.0,
+    "scoreMax": 483.9999,
+    "count": 34,
+    "cumulative": 1260,
+    "scoreDisplay": "483.0000–483.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 482.0,
+    "scoreMax": 482.9999,
+    "count": 58,
+    "cumulative": 1318,
+    "scoreDisplay": "482.0000–482.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 481.0,
+    "scoreMax": 481.9999,
+    "count": 32,
+    "cumulative": 1350,
+    "scoreDisplay": "481.0000–481.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 480.0,
+    "scoreMax": 480.9999,
+    "count": 41,
+    "cumulative": 1391,
+    "scoreDisplay": "480.0000–480.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 479.0,
+    "scoreMax": 479.9999,
+    "count": 41,
+    "cumulative": 1432,
+    "scoreDisplay": "479.0000–479.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 478.0,
+    "scoreMax": 478.9999,
+    "count": 40,
+    "cumulative": 1472,
+    "scoreDisplay": "478.0000–478.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 477.0,
+    "scoreMax": 477.9999,
+    "count": 46,
+    "cumulative": 1518,
+    "scoreDisplay": "477.0000–477.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 476.0,
+    "scoreMax": 476.9999,
+    "count": 53,
+    "cumulative": 1571,
+    "scoreDisplay": "476.0000–476.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 475.0,
+    "scoreMax": 475.9999,
+    "count": 45,
+    "cumulative": 1616,
+    "scoreDisplay": "475.0000–475.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 474.0,
+    "scoreMax": 474.9999,
+    "count": 56,
+    "cumulative": 1672,
+    "scoreDisplay": "474.0000–474.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 473.0,
+    "scoreMax": 473.9999,
+    "count": 50,
+    "cumulative": 1722,
+    "scoreDisplay": "473.0000–473.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 472.0,
+    "scoreMax": 472.9999,
+    "count": 42,
+    "cumulative": 1764,
+    "scoreDisplay": "472.0000–472.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 471.0,
+    "scoreMax": 471.9999,
+    "count": 51,
+    "cumulative": 1815,
+    "scoreDisplay": "471.0000–471.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 470.0,
+    "scoreMax": 470.9999,
+    "count": 44,
+    "cumulative": 1859,
+    "scoreDisplay": "470.0000–470.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 469.0,
+    "scoreMax": 469.9999,
+    "count": 57,
+    "cumulative": 1916,
+    "scoreDisplay": "469.0000–469.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 468.0,
+    "scoreMax": 468.9999,
+    "count": 42,
+    "cumulative": 1958,
+    "scoreDisplay": "468.0000–468.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 467.0,
+    "scoreMax": 467.9999,
+    "count": 58,
+    "cumulative": 2016,
+    "scoreDisplay": "467.0000–467.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 466.0,
+    "scoreMax": 466.9999,
+    "count": 35,
+    "cumulative": 2051,
+    "scoreDisplay": "466.0000–466.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 465.0,
+    "scoreMax": 465.9999,
+    "count": 60,
+    "cumulative": 2111,
+    "scoreDisplay": "465.0000–465.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 464.0,
+    "scoreMax": 464.9999,
+    "count": 50,
+    "cumulative": 2161,
+    "scoreDisplay": "464.0000–464.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 2
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 463.0,
+    "scoreMax": 463.9999,
+    "count": 54,
+    "cumulative": 2215,
+    "scoreDisplay": "463.0000–463.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 462.0,
+    "scoreMax": 462.9999,
+    "count": 44,
+    "cumulative": 2259,
+    "scoreDisplay": "462.0000–462.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 461.0,
+    "scoreMax": 461.9999,
+    "count": 47,
+    "cumulative": 2306,
+    "scoreDisplay": "461.0000–461.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 460.0,
+    "scoreMax": 460.9999,
+    "count": 44,
+    "cumulative": 2350,
+    "scoreDisplay": "460.0000–460.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 459.0,
+    "scoreMax": 459.9999,
+    "count": 54,
+    "cumulative": 2404,
+    "scoreDisplay": "459.0000–459.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 458.0,
+    "scoreMax": 458.9999,
+    "count": 60,
+    "cumulative": 2464,
+    "scoreDisplay": "458.0000–458.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 457.0,
+    "scoreMax": 457.9999,
+    "count": 62,
+    "cumulative": 2526,
+    "scoreDisplay": "457.0000–457.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 456.0,
+    "scoreMax": 456.9999,
+    "count": 61,
+    "cumulative": 2587,
+    "scoreDisplay": "456.0000–456.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 455.0,
+    "scoreMax": 455.9999,
+    "count": 58,
+    "cumulative": 2645,
+    "scoreDisplay": "455.0000–455.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 454.0,
+    "scoreMax": 454.9999,
+    "count": 54,
+    "cumulative": 2699,
+    "scoreDisplay": "454.0000–454.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 453.0,
+    "scoreMax": 453.9999,
+    "count": 54,
+    "cumulative": 2753,
+    "scoreDisplay": "453.0000–453.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 452.0,
+    "scoreMax": 452.9999,
+    "count": 73,
+    "cumulative": 2826,
+    "scoreDisplay": "452.0000–452.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 451.0,
+    "scoreMax": 451.9999,
+    "count": 76,
+    "cumulative": 2902,
+    "scoreDisplay": "451.0000–451.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 450.0,
+    "scoreMax": 450.9999,
+    "count": 63,
+    "cumulative": 2965,
+    "scoreDisplay": "450.0000–450.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 449.0,
+    "scoreMax": 449.9999,
+    "count": 64,
+    "cumulative": 3029,
+    "scoreDisplay": "449.0000–449.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 448.0,
+    "scoreMax": 448.9999,
+    "count": 47,
+    "cumulative": 3076,
+    "scoreDisplay": "448.0000–448.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 447.0,
+    "scoreMax": 447.9999,
+    "count": 68,
+    "cumulative": 3144,
+    "scoreDisplay": "447.0000–447.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 446.0,
+    "scoreMax": 446.9999,
+    "count": 59,
+    "cumulative": 3203,
+    "scoreDisplay": "446.0000–446.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 445.0,
+    "scoreMax": 445.9999,
+    "count": 62,
+    "cumulative": 3265,
+    "scoreDisplay": "445.0000–445.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 444.0,
+    "scoreMax": 444.9999,
+    "count": 47,
+    "cumulative": 3312,
+    "scoreDisplay": "444.0000–444.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 443.0,
+    "scoreMax": 443.9999,
+    "count": 64,
+    "cumulative": 3376,
+    "scoreDisplay": "443.0000–443.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 442.0,
+    "scoreMax": 442.9999,
+    "count": 65,
+    "cumulative": 3441,
+    "scoreDisplay": "442.0000–442.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 441.0,
+    "scoreMax": 441.9999,
+    "count": 65,
+    "cumulative": 3506,
+    "scoreDisplay": "441.0000–441.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 440.0,
+    "scoreMax": 440.9999,
+    "count": 58,
+    "cumulative": 3564,
+    "scoreDisplay": "440.0000–440.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 439.0,
+    "scoreMax": 439.9999,
+    "count": 62,
+    "cumulative": 3626,
+    "scoreDisplay": "439.0000–439.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 438.0,
+    "scoreMax": 438.9999,
+    "count": 53,
+    "cumulative": 3679,
+    "scoreDisplay": "438.0000–438.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 437.0,
+    "scoreMax": 437.9999,
+    "count": 57,
+    "cumulative": 3736,
+    "scoreDisplay": "437.0000–437.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 436.0,
+    "scoreMax": 436.9999,
+    "count": 62,
+    "cumulative": 3798,
+    "scoreDisplay": "436.0000–436.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 435.0,
+    "scoreMax": 435.9999,
+    "count": 59,
+    "cumulative": 3857,
+    "scoreDisplay": "435.0000–435.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 434.0,
+    "scoreMax": 434.9999,
+    "count": 76,
+    "cumulative": 3933,
+    "scoreDisplay": "434.0000–434.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 433.0,
+    "scoreMax": 433.9999,
+    "count": 59,
+    "cumulative": 3992,
+    "scoreDisplay": "433.0000–433.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 432.0,
+    "scoreMax": 432.9999,
+    "count": 79,
+    "cumulative": 4071,
+    "scoreDisplay": "432.0000–432.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 431.0,
+    "scoreMax": 431.9999,
+    "count": 71,
+    "cumulative": 4142,
+    "scoreDisplay": "431.0000–431.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 430.0,
+    "scoreMax": 430.9999,
+    "count": 63,
+    "cumulative": 4205,
+    "scoreDisplay": "430.0000–430.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 429.0,
+    "scoreMax": 429.9999,
+    "count": 53,
+    "cumulative": 4258,
+    "scoreDisplay": "429.0000–429.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 428.0,
+    "scoreMax": 428.9999,
+    "count": 53,
+    "cumulative": 4311,
+    "scoreDisplay": "428.0000–428.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 427.0,
+    "scoreMax": 427.9999,
+    "count": 59,
+    "cumulative": 4370,
+    "scoreDisplay": "427.0000–427.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 426.0,
+    "scoreMax": 426.9999,
+    "count": 68,
+    "cumulative": 4438,
+    "scoreDisplay": "426.0000–426.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 425.0,
+    "scoreMax": 425.9999,
+    "count": 60,
+    "cumulative": 4498,
+    "scoreDisplay": "425.0000–425.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 424.0,
+    "scoreMax": 424.9999,
+    "count": 47,
+    "cumulative": 4545,
+    "scoreDisplay": "424.0000–424.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 423.0,
+    "scoreMax": 423.9999,
+    "count": 52,
+    "cumulative": 4597,
+    "scoreDisplay": "423.0000–423.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 422.0,
+    "scoreMax": 422.9999,
+    "count": 51,
+    "cumulative": 4648,
+    "scoreDisplay": "422.0000–422.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 421.0,
+    "scoreMax": 421.9999,
+    "count": 52,
+    "cumulative": 4700,
+    "scoreDisplay": "421.0000–421.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 420.0,
+    "scoreMax": 420.9999,
+    "count": 64,
+    "cumulative": 4764,
+    "scoreDisplay": "420.0000–420.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 419.0,
+    "scoreMax": 419.9999,
+    "count": 49,
+    "cumulative": 4813,
+    "scoreDisplay": "419.0000–419.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 418.0,
+    "scoreMax": 418.9999,
+    "count": 60,
+    "cumulative": 4873,
+    "scoreDisplay": "418.0000–418.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 417.0,
+    "scoreMax": 417.9999,
+    "count": 57,
+    "cumulative": 4930,
+    "scoreDisplay": "417.0000–417.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 416.0,
+    "scoreMax": 416.9999,
+    "count": 40,
+    "cumulative": 4970,
+    "scoreDisplay": "416.0000–416.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 415.0,
+    "scoreMax": 415.9999,
+    "count": 49,
+    "cumulative": 5019,
+    "scoreDisplay": "415.0000–415.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 414.0,
+    "scoreMax": 414.9999,
+    "count": 47,
+    "cumulative": 5066,
+    "scoreDisplay": "414.0000–414.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 413.0,
+    "scoreMax": 413.9999,
+    "count": 53,
+    "cumulative": 5119,
+    "scoreDisplay": "413.0000–413.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 412.0,
+    "scoreMax": 412.9999,
+    "count": 44,
+    "cumulative": 5163,
+    "scoreDisplay": "412.0000–412.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 411.0,
+    "scoreMax": 411.9999,
+    "count": 35,
+    "cumulative": 5198,
+    "scoreDisplay": "411.0000–411.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 410.0,
+    "scoreMax": 410.9999,
+    "count": 38,
+    "cumulative": 5236,
+    "scoreDisplay": "410.0000–410.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 409.0,
+    "scoreMax": 409.9999,
+    "count": 42,
+    "cumulative": 5278,
+    "scoreDisplay": "409.0000–409.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 408.0,
+    "scoreMax": 408.9999,
+    "count": 37,
+    "cumulative": 5315,
+    "scoreDisplay": "408.0000–408.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 407.0,
+    "scoreMax": 407.9999,
+    "count": 34,
+    "cumulative": 5349,
+    "scoreDisplay": "407.0000–407.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 3
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 406.0,
+    "scoreMax": 406.9999,
+    "count": 51,
+    "cumulative": 5400,
+    "scoreDisplay": "406.0000–406.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 405.0,
+    "scoreMax": 405.9999,
+    "count": 39,
+    "cumulative": 5439,
+    "scoreDisplay": "405.0000–405.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 404.0,
+    "scoreMax": 404.9999,
+    "count": 39,
+    "cumulative": 5478,
+    "scoreDisplay": "404.0000–404.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 403.0,
+    "scoreMax": 403.9999,
+    "count": 31,
+    "cumulative": 5509,
+    "scoreDisplay": "403.0000–403.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 402.0,
+    "scoreMax": 402.9999,
+    "count": 44,
+    "cumulative": 5553,
+    "scoreDisplay": "402.0000–402.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 401.0,
+    "scoreMax": 401.9999,
+    "count": 29,
+    "cumulative": 5582,
+    "scoreDisplay": "401.0000–401.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 400.0,
+    "scoreMax": 400.9999,
+    "count": 37,
+    "cumulative": 5619,
+    "scoreDisplay": "400.0000–400.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 399.0,
+    "scoreMax": 399.9999,
+    "count": 28,
+    "cumulative": 5647,
+    "scoreDisplay": "399.0000–399.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 398.0,
+    "scoreMax": 398.9999,
+    "count": 30,
+    "cumulative": 5677,
+    "scoreDisplay": "398.0000–398.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 397.0,
+    "scoreMax": 397.9999,
+    "count": 26,
+    "cumulative": 5703,
+    "scoreDisplay": "397.0000–397.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 396.0,
+    "scoreMax": 396.9999,
+    "count": 28,
+    "cumulative": 5731,
+    "scoreDisplay": "396.0000–396.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 395.0,
+    "scoreMax": 395.9999,
+    "count": 23,
+    "cumulative": 5754,
+    "scoreDisplay": "395.0000–395.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 394.0,
+    "scoreMax": 394.9999,
+    "count": 31,
+    "cumulative": 5785,
+    "scoreDisplay": "394.0000–394.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 393.0,
+    "scoreMax": 393.9999,
+    "count": 23,
+    "cumulative": 5808,
+    "scoreDisplay": "393.0000–393.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 392.0,
+    "scoreMax": 392.9999,
+    "count": 22,
+    "cumulative": 5830,
+    "scoreDisplay": "392.0000–392.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 391.0,
+    "scoreMax": 391.9999,
+    "count": 17,
+    "cumulative": 5847,
+    "scoreDisplay": "391.0000–391.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 390.0,
+    "scoreMax": 390.9999,
+    "count": 36,
+    "cumulative": 5883,
+    "scoreDisplay": "390.0000–390.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 389.0,
+    "scoreMax": 389.9999,
+    "count": 16,
+    "cumulative": 5899,
+    "scoreDisplay": "389.0000–389.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 388.0,
+    "scoreMax": 388.9999,
+    "count": 21,
+    "cumulative": 5920,
+    "scoreDisplay": "388.0000–388.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 387.0,
+    "scoreMax": 387.9999,
+    "count": 28,
+    "cumulative": 5948,
+    "scoreDisplay": "387.0000–387.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 386.0,
+    "scoreMax": 386.9999,
+    "count": 15,
+    "cumulative": 5963,
+    "scoreDisplay": "386.0000–386.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 385.0,
+    "scoreMax": 385.9999,
+    "count": 19,
+    "cumulative": 5982,
+    "scoreDisplay": "385.0000–385.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 384.0,
+    "scoreMax": 384.9999,
+    "count": 15,
+    "cumulative": 5997,
+    "scoreDisplay": "384.0000–384.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 383.0,
+    "scoreMax": 383.9999,
+    "count": 19,
+    "cumulative": 6016,
+    "scoreDisplay": "383.0000–383.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 382.0,
+    "scoreMax": 382.9999,
+    "count": 8,
+    "cumulative": 6024,
+    "scoreDisplay": "382.0000–382.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 381.0,
+    "scoreMax": 381.9999,
+    "count": 8,
+    "cumulative": 6032,
+    "scoreDisplay": "381.0000–381.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 380.0,
+    "scoreMax": 380.9999,
+    "count": 13,
+    "cumulative": 6045,
+    "scoreDisplay": "380.0000–380.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 379.0,
+    "scoreMax": 379.9999,
+    "count": 16,
+    "cumulative": 6061,
+    "scoreDisplay": "379.0000–379.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 378.0,
+    "scoreMax": 378.9999,
+    "count": 13,
+    "cumulative": 6074,
+    "scoreDisplay": "378.0000–378.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 377.0,
+    "scoreMax": 377.9999,
+    "count": 13,
+    "cumulative": 6087,
+    "scoreDisplay": "377.0000–377.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 376.0,
+    "scoreMax": 376.9999,
+    "count": 8,
+    "cumulative": 6095,
+    "scoreDisplay": "376.0000–376.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 375.0,
+    "scoreMax": 375.9999,
+    "count": 10,
+    "cumulative": 6105,
+    "scoreDisplay": "375.0000–375.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 374.0,
+    "scoreMax": 374.9999,
+    "count": 8,
+    "cumulative": 6113,
+    "scoreDisplay": "374.0000–374.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 373.0,
+    "scoreMax": 373.9999,
+    "count": 6,
+    "cumulative": 6119,
+    "scoreDisplay": "373.0000–373.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 372.0,
+    "scoreMax": 372.9999,
+    "count": 9,
+    "cumulative": 6128,
+    "scoreDisplay": "372.0000–372.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 371.0,
+    "scoreMax": 371.9999,
+    "count": 9,
+    "cumulative": 6137,
+    "scoreDisplay": "371.0000–371.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 370.0,
+    "scoreMax": 370.9999,
+    "count": 7,
+    "cumulative": 6144,
+    "scoreDisplay": "370.0000–370.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 369.0,
+    "scoreMax": 369.9999,
+    "count": 4,
+    "cumulative": 6148,
+    "scoreDisplay": "369.0000–369.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 368.0,
+    "scoreMax": 368.9999,
+    "count": 9,
+    "cumulative": 6157,
+    "scoreDisplay": "368.0000–368.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 367.0,
+    "scoreMax": 367.9999,
+    "count": 6,
+    "cumulative": 6163,
+    "scoreDisplay": "367.0000–367.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 366.0,
+    "scoreMax": 366.9999,
+    "count": 5,
+    "cumulative": 6168,
+    "scoreDisplay": "366.0000–366.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 365.0,
+    "scoreMax": 365.9999,
+    "count": 5,
+    "cumulative": 6173,
+    "scoreDisplay": "365.0000–365.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 364.0,
+    "scoreMax": 364.9999,
+    "count": 6,
+    "cumulative": 6179,
+    "scoreDisplay": "364.0000–364.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 363.0,
+    "scoreMax": 363.9999,
+    "count": 5,
+    "cumulative": 6184,
+    "scoreDisplay": "363.0000–363.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 362.0,
+    "scoreMax": 362.9999,
+    "count": 4,
+    "cumulative": 6188,
+    "scoreDisplay": "362.0000–362.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 361.0,
+    "scoreMax": 361.9999,
+    "count": 2,
+    "cumulative": 6190,
+    "scoreDisplay": "361.0000–361.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 360.0,
+    "scoreMax": 360.9999,
+    "count": 2,
+    "cumulative": 6192,
+    "scoreDisplay": "360.0000–360.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 359.0,
+    "scoreMax": 359.9999,
+    "count": 3,
+    "cumulative": 6195,
+    "scoreDisplay": "359.0000–359.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 357.0,
+    "scoreMax": 357.9999,
+    "count": 1,
+    "cumulative": 6196,
+    "scoreDisplay": "357.0000–357.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 356.0,
+    "scoreMax": 356.9999,
+    "count": 2,
+    "cumulative": 6198,
+    "scoreDisplay": "356.0000–356.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 355.0,
+    "scoreMax": 355.9999,
+    "count": 1,
+    "cumulative": 6199,
+    "scoreDisplay": "355.0000–355.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 354.0,
+    "scoreMax": 354.9999,
+    "count": 1,
+    "cumulative": 6200,
+    "scoreDisplay": "354.0000–354.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 352.0,
+    "scoreMax": 352.9999,
+    "count": 1,
+    "cumulative": 6201,
+    "scoreDisplay": "352.0000–352.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 351.0,
+    "scoreMax": 351.9999,
+    "count": 4,
+    "cumulative": 6205,
+    "scoreDisplay": "351.0000–351.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  },
+  {
+    "year": 2025,
+    "scoreMin": 349.0,
+    "scoreMax": 349.9999,
+    "count": 1,
+    "cumulative": 6206,
+    "scoreDisplay": "349.0000–349.9999",
+    "source": {
+      "file": "1.pdf",
+      "page": 4
+    }
+  }
+]

@@ -1,0 +1,5145 @@
+{
+  "year": 2025,
+  "officialSource": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+  "schools": [
+    {
+      "school": "三亚学院",
+      "officialName": "三亚学院",
+      "schoolId": "4146013892",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "三峡大学",
+      "officialName": "三峡大学",
+      "schoolId": "4142011075",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "三峡科技",
+      "officialName": "三峡大学科技学院",
+      "schoolId": "4142013236",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "上外贤达",
+      "officialName": "上海外国语大学贤达经济人文学院",
+      "schoolId": "4131013636",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "上工程",
+      "officialName": "上海工程技术大学",
+      "schoolId": "4131010856",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "上师天华",
+      "officialName": "上海师范大学天华学院",
+      "schoolId": "4131013893",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "上应大",
+      "officialName": "上海应用技术大学",
+      "schoolId": "4131010259",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-exception"
+    },
+    {
+      "school": "上海中医",
+      "officialName": "上海中医药大学",
+      "schoolId": "4131010268",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "上海交大",
+      "officialName": "上海交通大学",
+      "schoolId": "4131010248",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "上海体大",
+      "officialName": "上海体育大学",
+      "schoolId": "4131010277",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "上海商院",
+      "officialName": "上海商学院",
+      "schoolId": "4131012050",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "上海外大",
+      "officialName": "上海外国语大学",
+      "schoolId": "4131010271",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "上海大学",
+      "officialName": "上海大学",
+      "schoolId": "4131010280",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "上海师大",
+      "officialName": "上海师范大学",
+      "schoolId": "4131010270",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "上海戏剧",
+      "officialName": "上海戏剧学院",
+      "schoolId": "4131010279",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "上海政法",
+      "officialName": "上海政法学院",
+      "schoolId": "4131011835",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "上海杉达",
+      "officialName": "上海杉达学院",
+      "schoolId": "4131011833",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "上海海事",
+      "officialName": "上海海事大学",
+      "schoolId": "4131010254",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "上海海大",
+      "officialName": "上海海洋大学",
+      "schoolId": "4131010264",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-exception"
+    },
+    {
+      "school": "上海理工",
+      "officialName": "上海理工大学",
+      "schoolId": "4131010252",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "上海电力",
+      "officialName": "上海电力大学",
+      "schoolId": "4131010256",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "上海电机",
+      "officialName": "上海电机学院",
+      "schoolId": "4131011458",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "上海视觉",
+      "officialName": "上海视觉艺术学院",
+      "schoolId": "4131013632",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "上海财大",
+      "officialName": "上海财经大学",
+      "schoolId": "4131010272",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "上海音乐",
+      "officialName": "上海音乐学院",
+      "schoolId": "4131010278",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "上经贸大",
+      "officialName": "上海对外经贸大学",
+      "schoolId": "4131010273",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "上财浙院",
+      "officialName": "上海财经大学浙江学院",
+      "schoolId": "4133014207",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "上饶师院",
+      "officialName": "上饶师范学院",
+      "schoolId": "4136010416",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "东北农大",
+      "officialName": "东北农业大学",
+      "schoolId": "4123010224",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "东北大学",
+      "officialName": "东北大学",
+      "schoolId": "4121010145",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "东北师大",
+      "officialName": "东北师范大学",
+      "schoolId": "4122010200",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "东北林大",
+      "officialName": "东北林业大学",
+      "schoolId": "4123010225",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "东北电力",
+      "officialName": "东北电力大学",
+      "schoolId": "4122010188",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "东北石油",
+      "officialName": "东北石油大学",
+      "schoolId": "4123010220",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "东北财大",
+      "officialName": "东北财经大学",
+      "schoolId": "4121010173",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "东华大学",
+      "officialName": "东华大学",
+      "schoolId": "4131010255",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "东华理工",
+      "officialName": "东华理工大学",
+      "schoolId": "4136010405",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "东南大学",
+      "officialName": "东南大学",
+      "schoolId": "4132010286",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "东南成贤",
+      "officialName": "东南大学成贤学院",
+      "schoolId": "4132012689",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "东大秦岛",
+      "officialName": "东北大学",
+      "schoolId": "4121010145",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "东湖学院",
+      "officialName": "武汉东湖学院",
+      "schoolId": "4142011798",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "中侨大学",
+      "officialName": "上海中侨职业技术大学",
+      "schoolId": "4131012915",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-exception"
+    },
+    {
+      "school": "中北大学",
+      "officialName": "中北大学",
+      "schoolId": "4114010110",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "中华女子",
+      "officialName": "中华女子学院",
+      "schoolId": "4111011149",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "中南大学",
+      "officialName": "中南大学",
+      "schoolId": "4143010533",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "中南民族",
+      "officialName": "中南民族大学",
+      "schoolId": "4142010524",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "中南财政",
+      "officialName": "中南财经政法大学",
+      "schoolId": "4142010520",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "中原工院",
+      "officialName": "中原工学院",
+      "schoolId": "4141010465",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "中国人大",
+      "officialName": "中国人民大学",
+      "schoolId": "4111010002",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "中国传媒",
+      "officialName": "中国传媒大学",
+      "schoolId": "4111010033",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "中国公安",
+      "officialName": "中国人民公安大学",
+      "schoolId": "4111010041",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "中国农大",
+      "officialName": "中国农业大学",
+      "schoolId": "4111010019",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "中国劳关",
+      "officialName": "中国劳动关系学院",
+      "schoolId": "4111012453",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "中国医大",
+      "officialName": "中国医科大学",
+      "schoolId": "4121010159",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "中国戏曲",
+      "officialName": "中国戏曲学院",
+      "schoolId": "4111010049",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "中国政法",
+      "officialName": "中国政法大学",
+      "schoolId": "4111010053",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "中国民航",
+      "officialName": "中国民航大学",
+      "schoolId": "4112010059",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "中国海洋",
+      "officialName": "中国海洋大学",
+      "schoolId": "4137010423",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "中国矿大",
+      "officialName": "中国矿业大学",
+      "schoolId": "4132010290",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "中国科大",
+      "officialName": "中国科学技术大学",
+      "schoolId": "4134010358",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-exception"
+    },
+    {
+      "school": "中国美院",
+      "officialName": "中国美术学院",
+      "schoolId": "4133010355",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "中国药大",
+      "officialName": "中国药科大学",
+      "schoolId": "4132010316",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "中国警察",
+      "officialName": "中国人民警察大学",
+      "schoolId": "4113011105",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "中国计量",
+      "officialName": "中国计量大学",
+      "schoolId": "4133010356",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "中国音乐",
+      "officialName": "中国音乐学院",
+      "schoolId": "4111010046",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "中央戏剧",
+      "officialName": "中央戏剧学院",
+      "schoolId": "4111010048",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "中央民族",
+      "officialName": "中央民族大学",
+      "schoolId": "4111010052",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "中央美院",
+      "officialName": "中央美术学院",
+      "schoolId": "4111010047",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "中央财大",
+      "officialName": "中央财经大学",
+      "schoolId": "4111010034",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "中山大学",
+      "officialName": "中山大学",
+      "schoolId": "4144010558",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "中油北克",
+      "officialName": "中国石油大学（北京）",
+      "schoolId": "4111011414",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-exception"
+    },
+    {
+      "school": "中计现代",
+      "officialName": "中国计量大学现代科技学院",
+      "schoolId": "4133013292",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "丽江文旅",
+      "officialName": "丽江文化旅游学院",
+      "schoolId": "4153013328",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "九江学院",
+      "officialName": "九江学院",
+      "schoolId": "4136011843",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "二外中瑞",
+      "officialName": "北京第二外国语学院中瑞酒店管理学院",
+      "schoolId": "4111014201",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "二工大",
+      "officialName": "上海第二工业大学",
+      "schoolId": "4131012044",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "云南农大",
+      "officialName": "云南农业大学",
+      "schoolId": "4153010676",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "云南大学",
+      "officialName": "云南大学",
+      "schoolId": "4153010673",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "云南师大",
+      "officialName": "云南师范大学",
+      "schoolId": "4153010681",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "云南民大",
+      "officialName": "云南民族大学",
+      "schoolId": "4153010691",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "云南警官",
+      "officialName": "云南警官学院",
+      "schoolId": "4153011392",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "云南财大",
+      "officialName": "云南财经大学",
+      "schoolId": "4153010689",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "井冈山大",
+      "officialName": "井冈山大学",
+      "schoolId": "4136010419",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "交大医学",
+      "officialName": "上海交通大学",
+      "schoolId": "4131010248",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-exception"
+    },
+    {
+      "school": "京中东方",
+      "officialName": "北京中医药大学东方学院",
+      "schoolId": "4113013899",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "京工耿丹",
+      "officialName": "北京工业大学耿丹学院",
+      "schoolId": "4111013904",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "京科天津",
+      "officialName": "北京科技大学天津学院",
+      "schoolId": "4112013898",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "人大苏州",
+      "officialName": "中国人民大学",
+      "schoolId": "4111010002",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-exception"
+    },
+    {
+      "school": "伊犁师大",
+      "officialName": "伊犁师范大学",
+      "schoolId": "4165010764",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "佳木斯大",
+      "officialName": "佳木斯大学",
+      "schoolId": "4123010222",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "保定理工",
+      "officialName": "保定理工学院",
+      "schoolId": "4113013891",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "健康医学",
+      "officialName": "上海健康医学院",
+      "schoolId": "4131010262",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "兰州交大",
+      "officialName": "兰州交通大学",
+      "schoolId": "4162010732",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "兰州大学",
+      "officialName": "兰州大学",
+      "schoolId": "4162010730",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "兰州环职",
+      "officialName": "兰州资源环境职业技术大学",
+      "schoolId": "4162016208",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-exception"
+    },
+    {
+      "school": "兰州理工",
+      "officialName": "兰州理工大学",
+      "schoolId": "4162010731",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "兰州财大",
+      "officialName": "兰州财经大学",
+      "schoolId": "4162010741",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "冀外国语",
+      "officialName": "河北外国语学院",
+      "schoolId": "4113013402",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-exception"
+    },
+    {
+      "school": "冀油职大",
+      "officialName": "河北石油职业技术大学",
+      "schoolId": "4113016202",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "内江师院",
+      "officialName": "内江师范学院",
+      "schoolId": "4151010640",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "内蒙大学",
+      "officialName": "内蒙古大学",
+      "schoolId": "4115010126",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "北交威海",
+      "officialName": "北京交通大学",
+      "schoolId": "4111010004",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "北京中医",
+      "officialName": "北京中医药大学",
+      "schoolId": "4111010026",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "北京二外",
+      "officialName": "北京第二外国语学院",
+      "schoolId": "4111010031",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "北京交大",
+      "officialName": "北京交通大学",
+      "schoolId": "4111010004",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "北京体育",
+      "officialName": "北京体育大学",
+      "schoolId": "4111010043",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "北京化工",
+      "officialName": "北京化工大学",
+      "schoolId": "4111010010",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "北京协和",
+      "officialName": "北京协和医学院",
+      "schoolId": "4111010023",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "北京印刷",
+      "officialName": "北京印刷学院",
+      "schoolId": "4111010015",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "北京城市",
+      "officialName": "北京城市学院",
+      "schoolId": "4111011418",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "北京工业",
+      "officialName": "北京工业大学",
+      "schoolId": "4111010005",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "北京工商",
+      "officialName": "北京工商大学",
+      "schoolId": "4111010011",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "北京林大",
+      "officialName": "北京林业大学",
+      "schoolId": "4111010022",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "北京物资",
+      "officialName": "北京物资学院",
+      "schoolId": "4111010037",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "北京理工",
+      "officialName": "北京理工大学",
+      "schoolId": "4111010007",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "北京电影",
+      "officialName": "北京电影学院",
+      "schoolId": "4111010050",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "北京科大",
+      "officialName": "北京科技大学",
+      "schoolId": "4111010008",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "北京联大",
+      "officialName": "北京联合大学",
+      "schoolId": "4111011417",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "北京航大",
+      "officialName": "北京航空航天大学",
+      "schoolId": "4111010006",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-exception"
+    },
+    {
+      "school": "北京语言",
+      "officialName": "北京语言大学",
+      "schoolId": "4111010032",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "北京邮电",
+      "officialName": "北京邮电大学",
+      "schoolId": "4111010013",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "北华大学",
+      "officialName": "北华大学",
+      "schoolId": "4122010201",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "北华航工",
+      "officialName": "北华航天工业学院",
+      "schoolId": "4113011629",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "北外大",
+      "officialName": "北京外国语大学",
+      "schoolId": "4111010030",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "北师大",
+      "officialName": "北京师范大学",
+      "schoolId": "4111010027",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "北师浸会",
+      "officialName": "北京师范大学-香港浸会大学联合国际学院",
+      "schoolId": "4144016401",
+      "ownership": "合作办学",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-exception"
+    },
+    {
+      "school": "北方民族",
+      "officialName": "北方民族大学",
+      "schoolId": "4164011407",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "北海艺术",
+      "officialName": "北海艺术设计学院",
+      "schoolId": "4145013524",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "北部湾大",
+      "officialName": "北部湾大学",
+      "schoolId": "4145011607",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "华东交大",
+      "officialName": "华东交通大学",
+      "schoolId": "4136010404",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "华东师大",
+      "officialName": "华东师范大学",
+      "schoolId": "4131010269",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "华东政法",
+      "officialName": "华东政法大学",
+      "schoolId": "4131010276",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "华东理工",
+      "officialName": "华东理工大学",
+      "schoolId": "4131010251",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "华中农大",
+      "officialName": "华中农业大学",
+      "schoolId": "4142010504",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "华中师大",
+      "officialName": "华中师范大学",
+      "schoolId": "4142010511",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "华中科大",
+      "officialName": "华中科技大学",
+      "schoolId": "4142010487",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "华侨大学",
+      "officialName": "华侨大学",
+      "schoolId": "4135010385",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "华北水电",
+      "officialName": "华北水利水电大学",
+      "schoolId": "4141010078",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "华北理工",
+      "officialName": "华北理工大学",
+      "schoolId": "4113010081",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "华南农大",
+      "officialName": "华南农业大学",
+      "schoolId": "4144010564",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "华南师大",
+      "officialName": "华南师范大学",
+      "schoolId": "4144010574",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "华南理工",
+      "officialName": "华南理工大学",
+      "schoolId": "4144010561",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "华电保定",
+      "officialName": "华北电力大学",
+      "schoolId": "4111010054",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-exception"
+    },
+    {
+      "school": "华电北京",
+      "officialName": "华北电力大学",
+      "schoolId": "4111010054",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-exception"
+    },
+    {
+      "school": "南京中医",
+      "officialName": "南京中医药大学",
+      "schoolId": "4132010315",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "南京传媒",
+      "officialName": "南京传媒学院",
+      "schoolId": "4132013687",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "南京信息",
+      "officialName": "南京信息工程大学",
+      "schoolId": "4132010300",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "南京农大",
+      "officialName": "南京农业大学",
+      "schoolId": "4132010307",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "南京医大",
+      "officialName": "南京医科大学",
+      "schoolId": "4132010312",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "南京大学",
+      "officialName": "南京大学",
+      "schoolId": "4132010284",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "南京审计",
+      "officialName": "南京审计大学",
+      "schoolId": "4132011287",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "南京工大",
+      "officialName": "南京工业大学",
+      "schoolId": "4132010291",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "南京工程",
+      "officialName": "南京工程学院",
+      "schoolId": "4132011276",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "南京师大",
+      "officialName": "南京师范大学",
+      "schoolId": "4132010319",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "南京晓庄",
+      "officialName": "南京晓庄学院",
+      "schoolId": "4132011460",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "南京林大",
+      "officialName": "南京林业大学",
+      "schoolId": "4132010298",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "南京特师",
+      "officialName": "南京特殊教育师范学院",
+      "schoolId": "4132012048",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-exception"
+    },
+    {
+      "school": "南京理工",
+      "officialName": "南京理工大学",
+      "schoolId": "4132010288",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "南京航大",
+      "officialName": "南京航空航天大学",
+      "schoolId": "4132010287",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-exception"
+    },
+    {
+      "school": "南京艺术",
+      "officialName": "南京艺术学院",
+      "schoolId": "4132010331",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "南京财大",
+      "officialName": "南京财经大学",
+      "schoolId": "4132010327",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "南京邮电",
+      "officialName": "南京邮电大学",
+      "schoolId": "4132010293",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "南医康达",
+      "officialName": "南京医科大学康达学院",
+      "schoolId": "4132013980",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "南华大学",
+      "officialName": "南华大学",
+      "schoolId": "4143010555",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "南审金审",
+      "officialName": "南京审计大学金审学院",
+      "schoolId": "4132013994",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "南工浦江",
+      "officialName": "南京工业大学浦江学院",
+      "schoolId": "4132013905",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "南师泰州",
+      "officialName": "南京师范大学泰州学院",
+      "schoolId": "4132013843",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "南开大学",
+      "officialName": "南开大学",
+      "schoolId": "4112010055",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "南方医科",
+      "officialName": "南方医科大学",
+      "schoolId": "4144012121",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "南昌交院",
+      "officialName": "南昌交通学院",
+      "schoolId": "4136013431",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "南昌医学",
+      "officialName": "南昌医学院",
+      "schoolId": "4136013437",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "南昌大学",
+      "officialName": "南昌大学",
+      "schoolId": "4136010403",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "南昌工院",
+      "officialName": "南昌工学院",
+      "schoolId": "4136013421",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "南昌师院",
+      "officialName": "南昌师范学院",
+      "schoolId": "4136014437",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "南昌理工",
+      "officialName": "南昌理工学院",
+      "schoolId": "4136012795",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "南昌航大",
+      "officialName": "南昌航空大学",
+      "schoolId": "4136010406",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "南湖学院",
+      "officialName": "嘉兴南湖学院",
+      "schoolId": "4133013291",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "南理紫金",
+      "officialName": "南京理工大学紫金学院",
+      "schoolId": "4132013654",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "南航科技",
+      "officialName": "南昌航空大学科技学院",
+      "schoolId": "4136013433",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-exception"
+    },
+    {
+      "school": "南航金城",
+      "officialName": "南京航空航天大学金城学院",
+      "schoolId": "4132013655",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "南通大学",
+      "officialName": "南通大学",
+      "schoolId": "4132010304",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "南通杏林",
+      "officialName": "南通大学杏林学院",
+      "schoolId": "4132013993",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "南通理工",
+      "officialName": "南通理工学院",
+      "schoolId": "4132012056",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "南邮通达",
+      "officialName": "南京邮电大学通达学院",
+      "schoolId": "4132013989",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "南阳师范",
+      "officialName": "南阳师范学院",
+      "schoolId": "4141010481",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "厦大嘉庚",
+      "officialName": "厦门大学嘉庚学院",
+      "schoolId": "4135013469",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "厦门医学",
+      "officialName": "厦门医学院",
+      "schoolId": "4135012631",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "厦门大学",
+      "officialName": "厦门大学",
+      "schoolId": "4135010384",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "厦门理工",
+      "officialName": "厦门理工学院",
+      "schoolId": "4135011062",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "合肥城院",
+      "officialName": "合肥城市学院",
+      "schoolId": "4134013615",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "合肥工大",
+      "officialName": "合肥工业大学",
+      "schoolId": "4134010359",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "吉利学院",
+      "officialName": "吉利学院",
+      "schoolId": "4111012802",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "吉林动画",
+      "officialName": "吉林动画学院",
+      "schoolId": "4122013607",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "吉林大学",
+      "officialName": "吉林大学",
+      "schoolId": "4122010183",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "吉林工商",
+      "officialName": "吉林工商学院",
+      "schoolId": "4122011261",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "吉林师大",
+      "officialName": "吉林师范大学",
+      "schoolId": "4122010203",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "吉林艺术",
+      "officialName": "吉林艺术学院",
+      "schoolId": "4122010209",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "吉林财大",
+      "officialName": "吉林财经大学",
+      "schoolId": "4122010207",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "同济大学",
+      "officialName": "同济大学",
+      "schoolId": "4131010247",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "吕梁学院",
+      "officialName": "吕梁学院",
+      "schoolId": "4114010812",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "哈医大",
+      "officialName": "哈尔滨医科大学",
+      "schoolId": "4123010226",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "哈商大",
+      "officialName": "哈尔滨商业大学",
+      "schoolId": "4123010240",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "哈工大",
+      "officialName": "哈尔滨工业大学",
+      "schoolId": "4123010213",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "哈工威海",
+      "officialName": "哈尔滨工业大学",
+      "schoolId": "4123010213",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "哈工程",
+      "officialName": "哈尔滨工程大学",
+      "schoolId": "4123010217",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "哈师大",
+      "officialName": "哈尔滨师范大学",
+      "schoolId": "4123010231",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "哈理工",
+      "officialName": "哈尔滨理工大学",
+      "schoolId": "4123010214",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "哈金融",
+      "officialName": "哈尔滨金融学院",
+      "schoolId": "4123010245",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "商丘师范",
+      "officialName": "商丘师范学院",
+      "schoolId": "4141010483",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "喀什大学",
+      "officialName": "喀什大学",
+      "schoolId": "4165010763",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "嘉兴大学",
+      "officialName": "嘉兴大学",
+      "schoolId": "4133010354",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "四川传媒",
+      "officialName": "四川传媒学院",
+      "schoolId": "4151013669",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "四川农大",
+      "officialName": "四川农业大学",
+      "schoolId": "4151010626",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "四川大学",
+      "officialName": "四川大学",
+      "schoolId": "4151010610",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "四川工商",
+      "officialName": "四川工商学院",
+      "schoolId": "4151013672",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "四川师大",
+      "officialName": "四川师范大学",
+      "schoolId": "4151010636",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "四川文艺",
+      "officialName": "四川文化艺术学院",
+      "schoolId": "4151014043",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "四川美院",
+      "officialName": "四川美术学院",
+      "schoolId": "4150010655",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "四川轻化",
+      "officialName": "四川轻化工大学",
+      "schoolId": "4151010622",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "四川音乐",
+      "officialName": "四川音乐学院",
+      "schoolId": "4151010654",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "地大北京",
+      "officialName": "中国地质大学（北京）",
+      "schoolId": "4111011415",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "地大武汉",
+      "officialName": "中国地质大学（武汉）",
+      "schoolId": "4142010491",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "塔里木",
+      "officialName": "塔里木大学",
+      "schoolId": "4165010757",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "复旦医学",
+      "officialName": "复旦大学",
+      "schoolId": "4131010246",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "复旦大学",
+      "officialName": "复旦大学",
+      "schoolId": "4131010246",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "外经贸大",
+      "officialName": "对外经济贸易大学",
+      "schoolId": "4111010036",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "大同大学",
+      "officialName": "山西大同大学",
+      "schoolId": "4114010120",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "大理大学",
+      "officialName": "大理大学",
+      "schoolId": "4153010679",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "大连东软",
+      "officialName": "大连东软信息学院",
+      "schoolId": "4121013631",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "大连交大",
+      "officialName": "大连交通大学",
+      "schoolId": "4121010150",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "大连医科",
+      "officialName": "大连医科大学",
+      "schoolId": "4121010161",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "大连大学",
+      "officialName": "大连大学",
+      "schoolId": "4121011258",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "大连工大",
+      "officialName": "大连工业大学",
+      "schoolId": "4121010152",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "大连民族",
+      "officialName": "大连民族大学",
+      "schoolId": "4121012026",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "大连海事",
+      "officialName": "大连海事大学",
+      "schoolId": "4121010151",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "大连海洋",
+      "officialName": "大连海洋大学",
+      "schoolId": "4121010158",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "大连理工",
+      "officialName": "大连理工大学",
+      "schoolId": "4121010141",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "大连艺术",
+      "officialName": "大连艺术学院",
+      "schoolId": "4121013599",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "大连财经",
+      "officialName": "大连财经学院",
+      "schoolId": "4121013218",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "天津中医",
+      "officialName": "天津中医药大学",
+      "schoolId": "4112010063",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "天津医大",
+      "officialName": "天津医科大学",
+      "schoolId": "4112010062",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "天津商大",
+      "officialName": "天津商业大学",
+      "schoolId": "4112010069",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "天津城建",
+      "officialName": "天津城建大学",
+      "schoolId": "4112010792",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "天津外大",
+      "officialName": "天津外国语大学",
+      "schoolId": "4112010068",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "天津大学",
+      "officialName": "天津大学",
+      "schoolId": "4112010056",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "天津工大",
+      "officialName": "天津工业大学",
+      "schoolId": "4112010058",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "天津师大",
+      "officialName": "天津师范大学",
+      "schoolId": "4112010065",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "天津理工",
+      "officialName": "天津理工大学",
+      "schoolId": "4112010060",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "天津科大",
+      "officialName": "天津科技大学",
+      "schoolId": "4112010057",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "天津美院",
+      "officialName": "天津美术学院",
+      "schoolId": "4112010073",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "天津职师",
+      "officialName": "天津职业技术师范大学",
+      "schoolId": "4112010066",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-exception"
+    },
+    {
+      "school": "天津财大",
+      "officialName": "天津财经大学",
+      "schoolId": "4112010070",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "太原理工",
+      "officialName": "太原理工大学",
+      "schoolId": "4114010112",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "太原科大",
+      "officialName": "太原科技大学",
+      "schoolId": "4114010109",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "太湖学院",
+      "officialName": "无锡太湖学院",
+      "schoolId": "4132013571",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "宁夏医大",
+      "officialName": "宁夏医科大学",
+      "schoolId": "4164010752",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "宁夏大学",
+      "officialName": "宁夏大学",
+      "schoolId": "4164010749",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "宁波大学",
+      "officialName": "宁波大学",
+      "schoolId": "4133011646",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "安医临床",
+      "officialName": "安徽医科大学临床医学院",
+      "schoolId": "4134013618",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "安徽中医",
+      "officialName": "安徽中医药大学",
+      "schoolId": "4134010369",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "安徽农大",
+      "officialName": "安徽农业大学",
+      "schoolId": "4134010364",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "安徽医大",
+      "officialName": "安徽医科大学",
+      "schoolId": "4134010366",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "安徽大学",
+      "officialName": "安徽大学",
+      "schoolId": "4134010357",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "安徽工大",
+      "officialName": "安徽工业大学",
+      "schoolId": "4134010360",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "安徽工程",
+      "officialName": "安徽工程大学",
+      "schoolId": "4134010363",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "安徽师大",
+      "officialName": "安徽师范大学",
+      "schoolId": "4134010370",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "安徽建筑",
+      "officialName": "安徽建筑大学",
+      "schoolId": "4134010878",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "安徽理工",
+      "officialName": "安徽理工大学",
+      "schoolId": "4134010361",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "安徽科技",
+      "officialName": "安徽科技学院",
+      "schoolId": "4134010879",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "安徽财大",
+      "officialName": "安徽财经大学",
+      "schoolId": "4134010378",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "安阳工院",
+      "officialName": "安阳工学院",
+      "schoolId": "4141011330",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "宜春学院",
+      "officialName": "宜春学院",
+      "schoolId": "4136010417",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "宝鸡文理",
+      "officialName": "宝鸡文理学院",
+      "schoolId": "4161010721",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "宿迁学院",
+      "officialName": "宿迁学院",
+      "schoolId": "4132014160",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "山一大",
+      "officialName": "山东第一医科大学",
+      "schoolId": "4137010439",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-exception"
+    },
+    {
+      "school": "山东中医",
+      "officialName": "山东中医药大学",
+      "schoolId": "4137010441",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "山东二医",
+      "officialName": "山东第二医科大学",
+      "schoolId": "4137010438",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "山东交通",
+      "officialName": "山东交通学院",
+      "schoolId": "4137011510",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "山东大学",
+      "officialName": "山东大学",
+      "schoolId": "4137010422",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "山东工商",
+      "officialName": "山东工商学院",
+      "schoolId": "4137011688",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "山东师大",
+      "officialName": "山东师范大学",
+      "schoolId": "4137010445",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "山东建筑",
+      "officialName": "山东建筑大学",
+      "schoolId": "4137010430",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "山东理工",
+      "officialName": "山东理工大学",
+      "schoolId": "4137010433",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "山东石化",
+      "officialName": "山东石油化工学院",
+      "schoolId": "4137013386",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "山东科大",
+      "officialName": "山东科技大学",
+      "schoolId": "4137010424",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "山东航空",
+      "officialName": "山东航空学院",
+      "schoolId": "4137010449",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "山大威海",
+      "officialName": "山东大学",
+      "schoolId": "4137010422",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-exception"
+    },
+    {
+      "school": "山西中医",
+      "officialName": "山西中医药大学",
+      "schoolId": "4114010809",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "山西农大",
+      "officialName": "山西农业大学",
+      "schoolId": "4114010113",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "山西医大",
+      "officialName": "山西医科大学",
+      "schoolId": "4114010114",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "山西大学",
+      "officialName": "山西大学",
+      "schoolId": "4114010108",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "山西工程",
+      "officialName": "山西工程技术学院",
+      "schoolId": "4114014527",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-exception"
+    },
+    {
+      "school": "山西工院",
+      "officialName": "山西工学院",
+      "schoolId": "4114013534",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "山西财大",
+      "officialName": "山西财经大学",
+      "schoolId": "4114010125",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "岭南师院",
+      "officialName": "岭南师范学院",
+      "schoolId": "4144010579",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "岳阳学院",
+      "officialName": "岳阳学院",
+      "schoolId": "4143012658",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "川外国语",
+      "officialName": "四川外国语大学",
+      "schoolId": "4150010650",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "川大锦江",
+      "officialName": "四川大学锦江学院",
+      "schoolId": "4151014039",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "川工科院",
+      "officialName": "四川工业科技学院",
+      "schoolId": "4151013816",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "川工职大",
+      "officialName": "四川工程职业技术大学",
+      "schoolId": "4151012763",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "常州大学",
+      "officialName": "常州大学",
+      "schoolId": "4132010292",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "常州工院",
+      "officialName": "常州工学院",
+      "schoolId": "4132011055",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "平顶学院",
+      "officialName": "平顶山学院",
+      "schoolId": "4141010919",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "广东医科",
+      "officialName": "广东医科大学",
+      "schoolId": "4144010571",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "广东海洋",
+      "officialName": "广东海洋大学",
+      "schoolId": "4144010566",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "广东药科",
+      "officialName": "广东药科大学",
+      "schoolId": "4144010573",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "广东财大",
+      "officialName": "广东财经大学",
+      "schoolId": "4144010592",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "广东轻大",
+      "officialName": "广东轻工职业技术大学",
+      "schoolId": "4144010833",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-exception"
+    },
+    {
+      "school": "广东金融",
+      "officialName": "广东金融学院",
+      "schoolId": "4144011540",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "广以理工",
+      "officialName": "广东以色列理工学院",
+      "schoolId": "4144016410",
+      "ownership": "合作办学",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "广州中医",
+      "officialName": "广州中医药大学",
+      "schoolId": "4144010572",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "广州体院",
+      "officialName": "广州体育学院",
+      "schoolId": "4144010585",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "广州医大",
+      "officialName": "广州医科大学",
+      "schoolId": "4144010570",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "广州商院",
+      "officialName": "广州商学院",
+      "schoolId": "4144013667",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "广州大学",
+      "officialName": "广州大学",
+      "schoolId": "4144011078",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "广技师大",
+      "officialName": "广东技术师范大学",
+      "schoolId": "4144010588",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "广西大学",
+      "officialName": "广西大学",
+      "schoolId": "4145010593",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "广西师大",
+      "officialName": "广西师范大学",
+      "schoolId": "4145010602",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "广西艺术",
+      "officialName": "广西艺术学院",
+      "schoolId": "4145010607",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "延安大学",
+      "officialName": "延安大学",
+      "schoolId": "4161010719",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "延边大学",
+      "officialName": "延边大学",
+      "schoolId": "4122010184",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "建桥学院",
+      "officialName": "上海建桥学院",
+      "schoolId": "4131012799",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "徐州医大",
+      "officialName": "徐州医科大学",
+      "schoolId": "4132010313",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "徐州工程",
+      "officialName": "徐州工程学院",
+      "schoolId": "4132011998",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "忻州师院",
+      "officialName": "忻州师范学院",
+      "schoolId": "4114010124",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "成都东软",
+      "officialName": "成都东软学院",
+      "schoolId": "4151012636",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "成都中医",
+      "officialName": "成都中医药大学",
+      "schoolId": "4151010633",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "成都信息",
+      "officialName": "成都信息工程大学",
+      "schoolId": "4151010621",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "成都医学",
+      "officialName": "成都医学院",
+      "schoolId": "4151013705",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "成都大学",
+      "officialName": "成都大学",
+      "schoolId": "4151011079",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "成都理工",
+      "officialName": "成都理工大学",
+      "schoolId": "4151010616",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "扬州大学",
+      "officialName": "扬州大学",
+      "schoolId": "4132011117",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "承德医学",
+      "officialName": "承德医学院",
+      "schoolId": "4113010093",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "攀枝花",
+      "officialName": "攀枝花学院",
+      "schoolId": "4151011360",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "文华学院",
+      "officialName": "文华学院",
+      "schoolId": "4142013262",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "新乡学院",
+      "officialName": "新乡学院",
+      "schoolId": "4141011071",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "新余学院",
+      "officialName": "新余学院",
+      "schoolId": "4136011508",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "新疆农大",
+      "officialName": "新疆农业大学",
+      "schoolId": "4165010758",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "新疆大学",
+      "officialName": "新疆大学",
+      "schoolId": "4165010755",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "新疆工程",
+      "officialName": "新疆工程学院",
+      "schoolId": "4165010994",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "新疆政法",
+      "officialName": "新疆政法学院",
+      "schoolId": "4165013628",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "新疆理工",
+      "officialName": "新疆理工学院",
+      "schoolId": "4165013558",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "新疆科技",
+      "officialName": "新疆科技学院",
+      "schoolId": "4165013561",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "新疆财大",
+      "officialName": "新疆财经大学",
+      "schoolId": "4165010766",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "无锡学院",
+      "officialName": "无锡学院",
+      "schoolId": "4132013982",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "昆医海源",
+      "officialName": "昆明医科大学海源学院",
+      "schoolId": "4153013332",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "昆明医大",
+      "officialName": "昆明医科大学",
+      "schoolId": "4153010678",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "昆明理工",
+      "officialName": "昆明理工大学",
+      "schoolId": "4153010674",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "昆理津桥",
+      "officialName": "昆明理工大学津桥学院",
+      "schoolId": "4153013329",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "昌吉学院",
+      "officialName": "昌吉学院",
+      "schoolId": "4165010997",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "昌大科技",
+      "officialName": "南昌大学科学技术学院",
+      "schoolId": "4136013429",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-exception"
+    },
+    {
+      "school": "景德学院",
+      "officialName": "景德镇学院",
+      "schoolId": "4136010894",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "景德陶瓷",
+      "officialName": "景德镇陶瓷大学",
+      "schoolId": "4136010408",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "景艺职大",
+      "officialName": "景德镇艺术职业大学",
+      "schoolId": "4136013435",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "暨南大学",
+      "officialName": "暨南大学",
+      "schoolId": "4144010559",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "曲阜师大",
+      "officialName": "曲阜师范大学",
+      "schoolId": "4137010446",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "杭州师大",
+      "officialName": "杭州师范大学",
+      "schoolId": "4133010346",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "杭州电子",
+      "officialName": "杭州电子科技大学",
+      "schoolId": "4133010336",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "柳州职大",
+      "officialName": "柳州职业技术大学",
+      "schoolId": "4145012104",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "桂林医大",
+      "officialName": "桂林医科大学",
+      "schoolId": "4145010601",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "桂林理工",
+      "officialName": "桂林理工大学",
+      "schoolId": "4145010596",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "桂林电子",
+      "officialName": "桂林电子科技大学",
+      "schoolId": "4145010595",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "桂航工院",
+      "officialName": "桂林航天工业学院",
+      "schoolId": "4145011825",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "梧州学院",
+      "officialName": "梧州学院",
+      "schoolId": "4145011354",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "武昌理工",
+      "officialName": "武昌理工学院",
+      "schoolId": "4142012310",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "武昌首义",
+      "officialName": "武昌首义学院",
+      "schoolId": "4142012309",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "武汉华夏",
+      "officialName": "武汉华夏理工学院",
+      "schoolId": "4142013666",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "武汉城院",
+      "officialName": "武汉城市学院",
+      "schoolId": "4142013235",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "武汉大学",
+      "officialName": "武汉大学",
+      "schoolId": "4142010486",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "武汉工科",
+      "officialName": "武汉工程科技学院",
+      "schoolId": "4142013664",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "武汉工程",
+      "officialName": "武汉工程大学",
+      "schoolId": "4142010490",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "武汉文理",
+      "officialName": "武汉文理学院",
+      "schoolId": "4142013237",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "武汉晴川",
+      "officialName": "武汉晴川学院",
+      "schoolId": "4142013188",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "武汉理工",
+      "officialName": "武汉理工大学",
+      "schoolId": "4142010497",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "武汉科大",
+      "officialName": "武汉科技大学",
+      "schoolId": "4142010488",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "武汉纺大",
+      "officialName": "武汉纺织大学",
+      "schoolId": "4142010495",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "武汉轻工",
+      "officialName": "武汉轻工大学",
+      "schoolId": "4142010496",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "武纺外贸",
+      "officialName": "武汉纺织大学外经贸学院",
+      "schoolId": "4142013240",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "民航飞院",
+      "officialName": "中国民用航空飞行学院",
+      "schoolId": "4151010624",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "汕头大学",
+      "officialName": "汕头大学",
+      "schoolId": "4144010560",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "江南大学",
+      "officialName": "江南大学",
+      "schoolId": "4132010295",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "江大京江",
+      "officialName": "江苏大学京江学院",
+      "schoolId": "4132013986",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "江师科技",
+      "officialName": "江西师范大学科学技术学院",
+      "schoolId": "4136013438",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-exception"
+    },
+    {
+      "school": "江汉大学",
+      "officialName": "江汉大学",
+      "schoolId": "4142011072",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "江科苏理",
+      "officialName": "江苏科技大学苏州理工学院",
+      "schoolId": "4132013991",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-exception"
+    },
+    {
+      "school": "江苏大学",
+      "officialName": "江苏大学",
+      "schoolId": "4132010299",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "江苏海大",
+      "officialName": "江苏海洋大学",
+      "schoolId": "4132011641",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "江苏理工",
+      "officialName": "江苏理工学院",
+      "schoolId": "4132011463",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "江苏科大",
+      "officialName": "江苏科技大学",
+      "schoolId": "4132010289",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "江西中医",
+      "officialName": "江西中医药大学",
+      "schoolId": "4136010412",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "江西农大",
+      "officialName": "江西农业大学",
+      "schoolId": "4136010410",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "江西工程",
+      "officialName": "江西工程学院",
+      "schoolId": "4136012766",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "江西师大",
+      "officialName": "江西师范大学",
+      "schoolId": "4136010414",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "江西服装",
+      "officialName": "江西服装学院",
+      "schoolId": "4136013418",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "江西水电",
+      "officialName": "江西水利电力大学",
+      "schoolId": "4136011319",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "江西理工",
+      "officialName": "江西理工大学",
+      "schoolId": "4136010407",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "江西科师",
+      "officialName": "江西科技师范大学",
+      "schoolId": "4136011318",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "江西科技",
+      "officialName": "江西科技学院",
+      "schoolId": "4136010846",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "江西财大",
+      "officialName": "江西财经大学",
+      "schoolId": "4136010421",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "江财经管",
+      "officialName": "江西财经大学现代经济管理学院",
+      "schoolId": "4136013441",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-exception"
+    },
+    {
+      "school": "沈阳农大",
+      "officialName": "沈阳农业大学",
+      "schoolId": "4121010157",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "沈阳化工",
+      "officialName": "沈阳化工大学",
+      "schoolId": "4121010149",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "沈阳工大",
+      "officialName": "沈阳工业大学",
+      "schoolId": "4121010142",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "沈阳工程",
+      "officialName": "沈阳工程学院",
+      "schoolId": "4121011632",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "沈阳建筑",
+      "officialName": "沈阳建筑大学",
+      "schoolId": "4121010153",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "沈阳理工",
+      "officialName": "沈阳理工大学",
+      "schoolId": "4121010144",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "沈阳航空",
+      "officialName": "沈阳航空航天大学",
+      "schoolId": "4121010143",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "沈阳药大",
+      "officialName": "沈阳药科大学",
+      "schoolId": "4121010163",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "河北传媒",
+      "officialName": "河北传媒学院",
+      "schoolId": "4113012784",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "河北医科",
+      "officialName": "河北医科大学",
+      "schoolId": "4113010089",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "河北地质",
+      "officialName": "河北地质大学",
+      "schoolId": "4113010077",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "河北工大",
+      "officialName": "河北工业大学",
+      "schoolId": "4113010080",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "河北工程",
+      "officialName": "河北工程大学",
+      "schoolId": "4113010076",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "河北建工",
+      "officialName": "河北建筑工程学院",
+      "schoolId": "4113010084",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "河北环境",
+      "officialName": "河北环境工程学院",
+      "schoolId": "4213051721",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "河南中医",
+      "officialName": "河南中医药大学",
+      "schoolId": "4141010471",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "河南农大",
+      "officialName": "河南农业大学",
+      "schoolId": "4141010466",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "河南医药",
+      "officialName": "河南医药大学",
+      "schoolId": "4141010472",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "河南城建",
+      "officialName": "河南城建学院",
+      "schoolId": "4141011765",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "河南大学",
+      "officialName": "河南大学",
+      "schoolId": "4141010475",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "河南工大",
+      "officialName": "河南工业大学",
+      "schoolId": "4141010463",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "河南工院",
+      "officialName": "河南工学院",
+      "schoolId": "4141011329",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "河南师大",
+      "officialName": "河南师范大学",
+      "schoolId": "4141010476",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "河南理工",
+      "officialName": "河南理工大学",
+      "schoolId": "4141010460",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "河南科大",
+      "officialName": "河南科技大学",
+      "schoolId": "4141010464",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "河南财政",
+      "officialName": "河南财政金融学院",
+      "schoolId": "4141011652",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-exception"
+    },
+    {
+      "school": "河南财金",
+      "officialName": "河南财政金融学院",
+      "schoolId": "4141011652",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "河池学院",
+      "officialName": "河池学院",
+      "schoolId": "4145010605",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "河海大学",
+      "officialName": "河海大学",
+      "schoolId": "4132010294",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "泉州师范",
+      "officialName": "泉州师范学院",
+      "schoolId": "4135010399",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "洛阳理工",
+      "officialName": "洛阳理工学院",
+      "schoolId": "4141011070",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "津医临床",
+      "officialName": "天津医科大学临床医学院",
+      "schoolId": "4112013661",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "津商宝德",
+      "officialName": "天津商业大学宝德学院",
+      "schoolId": "4112013660",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "津理中环",
+      "officialName": "天津理工大学中环信息学院",
+      "schoolId": "4112013897",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "津财珠江",
+      "officialName": "天津财经大学珠江学院",
+      "schoolId": "4112014087",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "济南大学",
+      "officialName": "济南大学",
+      "schoolId": "4137010427",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "济宁医学",
+      "officialName": "济宁医学院",
+      "schoolId": "4137010443",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "济宁学院",
+      "officialName": "济宁学院",
+      "schoolId": "4137010454",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "浙大医学",
+      "officialName": "浙江大学",
+      "schoolId": "4133010335",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "浙江中医",
+      "officialName": "浙江中医药大学",
+      "schoolId": "4133010344",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "浙江传媒",
+      "officialName": "浙江传媒学院",
+      "schoolId": "4133011647",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "浙江农林",
+      "officialName": "浙江农林大学",
+      "schoolId": "4133010341",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "浙江大学",
+      "officialName": "浙江大学",
+      "schoolId": "4133010335",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "浙江工商",
+      "officialName": "浙江工商大学",
+      "schoolId": "4133010353",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "浙江工大",
+      "officialName": "浙江工业大学",
+      "schoolId": "4133010337",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "浙江师大",
+      "officialName": "浙江师范大学",
+      "schoolId": "4133010345",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "浙江海洋",
+      "officialName": "浙江海洋大学",
+      "schoolId": "4133010340",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "浙江理工",
+      "officialName": "浙江理工大学",
+      "schoolId": "4133010338",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "浙江财大",
+      "officialName": "浙江财经大学",
+      "schoolId": "4133011482",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "海关学院",
+      "officialName": "上海海关学院",
+      "schoolId": "4131010274",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "海医大",
+      "officialName": "海军军医大学",
+      "ownership": "军队院校",
+      "source": "186.pdf",
+      "match": "military-school-outside-ministry-list"
+    },
+    {
+      "school": "海南医大",
+      "officialName": "海南医科大学",
+      "schoolId": "4146011810",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "海南大学",
+      "officialName": "海南大学",
+      "schoolId": "4146010589",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "海南师大",
+      "officialName": "海南师范大学",
+      "schoolId": "4146011658",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "海南比科",
+      "officialName": "海南比勒费尔德应用科学大学",
+      "schoolId": "4146014829",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-exception"
+    },
+    {
+      "school": "海口经院",
+      "officialName": "海口经济学院",
+      "schoolId": "4146012308",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "淮北师大",
+      "officialName": "淮北师范大学",
+      "schoolId": "4134010373",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "淮南师院",
+      "officialName": "淮南师范学院",
+      "schoolId": "4134010381",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "淮阴师范",
+      "officialName": "淮阴师范学院",
+      "schoolId": "4132010323",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "深圳大学",
+      "officialName": "深圳大学",
+      "schoolId": "4144010590",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "温医仁济",
+      "officialName": "温州医科大学仁济学院",
+      "schoolId": "4133013284",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "温州医大",
+      "officialName": "温州医科大学",
+      "schoolId": "4133010343",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "温州大学",
+      "officialName": "温州大学",
+      "schoolId": "4133010351",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "温州肯恩",
+      "officialName": "温州肯恩大学",
+      "schoolId": "4133016405",
+      "ownership": "合作办学",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "渭南师范",
+      "officialName": "渭南师范学院",
+      "schoolId": "4161010723",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "港城莞",
+      "officialName": "香港城市大学（东莞）",
+      "schoolId": "4144014851",
+      "ownership": "合作办学",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "湖北中医",
+      "officialName": "湖北中医药大学",
+      "schoolId": "4142010507",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "湖北医药",
+      "officialName": "湖北医药学院",
+      "schoolId": "4142010929",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "湖北大学",
+      "officialName": "湖北大学",
+      "schoolId": "4142010512",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "湖北工大",
+      "officialName": "湖北工业大学",
+      "schoolId": "4142010500",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "湖北汽院",
+      "officialName": "湖北汽车工业学院",
+      "schoolId": "4142010525",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "湖北美院",
+      "officialName": "湖北美术学院",
+      "schoolId": "4142010523",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "湖南中医",
+      "officialName": "湖南中医药大学",
+      "schoolId": "4143010541",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "湖南农大",
+      "officialName": "湖南农业大学",
+      "schoolId": "4143010537",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "湖南城市",
+      "officialName": "湖南城市学院",
+      "schoolId": "4143011527",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "湖南大学",
+      "officialName": "湖南大学",
+      "schoolId": "4143010532",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "湖南工商",
+      "officialName": "湖南工商大学",
+      "schoolId": "4143010554",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "湖南工大",
+      "officialName": "湖南工业大学",
+      "schoolId": "4143011535",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "湖南工学",
+      "officialName": "湖南工学院",
+      "schoolId": "4143011528",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "湖南工程",
+      "officialName": "湖南工程学院",
+      "schoolId": "4143011342",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "湖南师大",
+      "officialName": "湖南师范大学",
+      "schoolId": "4143010542",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "湖南文理",
+      "officialName": "湖南文理学院",
+      "schoolId": "4143010549",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "湖南理工",
+      "officialName": "湖南理工学院",
+      "schoolId": "4143010543",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "湖南科大",
+      "officialName": "湖南科技大学",
+      "schoolId": "4143010534",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "湖南科技",
+      "officialName": "湖南科技大学",
+      "schoolId": "4143010534",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "湖南财经",
+      "officialName": "湖南财政经济学院",
+      "schoolId": "4143011532",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "湖州学院",
+      "officialName": "湖州学院",
+      "schoolId": "4133013287",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "湖州师范",
+      "officialName": "湖州师范学院",
+      "schoolId": "4133010347",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "湘南学院",
+      "officialName": "湘南学院",
+      "schoolId": "4143010545",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "湘潭大学",
+      "officialName": "湘潭大学",
+      "schoolId": "4143010530",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "滁州学院",
+      "officialName": "滁州学院",
+      "schoolId": "4134010377",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "滇池学院",
+      "officialName": "滇池学院",
+      "schoolId": "4153013326",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "滨州医学",
+      "officialName": "滨州医学院",
+      "schoolId": "4137010440",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "潍坊学院",
+      "officialName": "潍坊学院",
+      "schoolId": "4137011067",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "烟台大学",
+      "officialName": "烟台大学",
+      "schoolId": "4137011066",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "燕山大学",
+      "officialName": "燕山大学",
+      "schoolId": "4113010216",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "珠海科院",
+      "officialName": "珠海科技学院",
+      "schoolId": "4144013684",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "理大城市",
+      "officialName": "大连理工大学城市学院",
+      "schoolId": "4121013198",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-exception"
+    },
+    {
+      "school": "理工盘锦",
+      "officialName": "大连理工大学",
+      "schoolId": "4121010141",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-exception"
+    },
+    {
+      "school": "甘肃政法",
+      "officialName": "甘肃政法大学",
+      "schoolId": "4162011406",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "电子科大",
+      "officialName": "电子科技大学",
+      "schoolId": "4151010614",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "电科成院",
+      "officialName": "电子科技大学成都学院",
+      "schoolId": "4151013665",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "电科沙河",
+      "officialName": "电子科技大学",
+      "schoolId": "4151010614",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "盐城工院",
+      "officialName": "盐城工学院",
+      "schoolId": "4132010305",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "盐城师范",
+      "officialName": "盐城师范学院",
+      "schoolId": "4132010324",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "石河子",
+      "officialName": "石河子大学",
+      "schoolId": "4165010759",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "石油北京",
+      "officialName": "中国石油大学（北京）",
+      "schoolId": "4111011414",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "石油华东",
+      "officialName": "中国石油大学（华东）",
+      "schoolId": "4137010425",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "石铁四方",
+      "officialName": "石家庄铁道大学四方学院",
+      "schoolId": "4113013593",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "石铁大",
+      "officialName": "石家庄铁道大学",
+      "schoolId": "4113010107",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "矿大北京",
+      "officialName": "中国矿业大学（北京）",
+      "schoolId": "4111011413",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "福州外贸",
+      "officialName": "福州外语外贸学院",
+      "schoolId": "4135013762",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "福州大学",
+      "officialName": "福州大学",
+      "schoolId": "4135010386",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "福建农林",
+      "officialName": "福建农林大学",
+      "schoolId": "4135010389",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "福建医大",
+      "officialName": "福建医科大学",
+      "schoolId": "4135010392",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "福建理工",
+      "officialName": "福建理工大学",
+      "schoolId": "4135010388",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "立信金融",
+      "officialName": "上海立信会计金融学院",
+      "schoolId": "4131011047",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "立达学院",
+      "officialName": "上海立达学院",
+      "schoolId": "4131012587",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "聊城东昌",
+      "officialName": "聊城大学东昌学院",
+      "schoolId": "4137013373",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "苏大应用",
+      "officialName": "苏州大学应用技术学院",
+      "schoolId": "4132013984",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "苏州城院",
+      "officialName": "苏州城市学院",
+      "schoolId": "4132013983",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "苏州大学",
+      "officialName": "苏州大学",
+      "schoolId": "4132010285",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "苏州工院",
+      "officialName": "苏州工学院",
+      "schoolId": "4132010333",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "苏州科大",
+      "officialName": "苏州科技大学",
+      "schoolId": "4132010332",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "衡水学院",
+      "officialName": "衡水学院",
+      "schoolId": "4113010101",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "衡阳师范",
+      "officialName": "衡阳师范学院",
+      "schoolId": "4143010546",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "衢州学院",
+      "officialName": "衢州学院",
+      "schoolId": "4133011488",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "西交城市",
+      "officialName": "西安交通大学城市学院",
+      "schoolId": "4161013677",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "西北农林",
+      "officialName": "西北农林科技大学",
+      "schoolId": "4161010712",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "西北大学",
+      "officialName": "西北大学",
+      "schoolId": "4161010697",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "西北工大",
+      "officialName": "西北工业大学",
+      "schoolId": "4161010699",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "西北师大",
+      "officialName": "西北师范大学",
+      "schoolId": "4162010736",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "西北政法",
+      "officialName": "西北政法大学",
+      "schoolId": "4161010726",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "西北民族",
+      "officialName": "西北民族大学",
+      "schoolId": "4162010742",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "西华大学",
+      "officialName": "西华大学",
+      "schoolId": "4151010623",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "西华师大",
+      "officialName": "西华师范大学",
+      "schoolId": "4151010638",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "西南交大",
+      "officialName": "西南交通大学",
+      "schoolId": "4151010613",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "西南医大",
+      "officialName": "西南医科大学",
+      "schoolId": "4151010632",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "西南大学",
+      "officialName": "西南大学",
+      "schoolId": "4150010635",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "西南政法",
+      "officialName": "西南政法大学",
+      "schoolId": "4150010652",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "西南林大",
+      "officialName": "西南林业大学",
+      "schoolId": "4153010677",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "西南民族",
+      "officialName": "西南民族大学",
+      "schoolId": "4151010656",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "西南石油",
+      "officialName": "西南石油大学",
+      "schoolId": "4151010615",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "西南科大",
+      "officialName": "西南科技大学",
+      "schoolId": "4151010619",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "西南财大",
+      "officialName": "西南财经大学",
+      "schoolId": "4151010651",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "西安交大",
+      "officialName": "西安交通大学",
+      "schoolId": "4161010698",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "西安培华",
+      "officialName": "西安培华学院",
+      "schoolId": "4161011400",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "西安外大",
+      "officialName": "西安外国语大学",
+      "schoolId": "4161010724",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "西安工大",
+      "officialName": "西安工业大学",
+      "schoolId": "4161010702",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "西安工程",
+      "officialName": "西安工程大学",
+      "schoolId": "4161010709",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "西安建科",
+      "officialName": "西安建筑科技大学",
+      "schoolId": "4161010703",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "西安思源",
+      "officialName": "西安思源学院",
+      "schoolId": "4161013121",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "西安理工",
+      "officialName": "西安理工大学",
+      "schoolId": "4161010700",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "西安石油",
+      "officialName": "西安石油大学",
+      "schoolId": "4161010705",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "西安科大",
+      "officialName": "西安科技大学",
+      "schoolId": "4161010704",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "西安美院",
+      "officialName": "西安美术学院",
+      "schoolId": "4161010729",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "西安财大",
+      "officialName": "西安财经大学",
+      "schoolId": "4161011560",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "西安邮电",
+      "officialName": "西安邮电大学",
+      "schoolId": "4161011664",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "西浦大学",
+      "officialName": "西交利物浦大学",
+      "schoolId": "4132016403",
+      "ownership": "合作办学",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-exception"
+    },
+    {
+      "school": "西电科大",
+      "officialName": "西安电子科技大学",
+      "schoolId": "4161010701",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "西藏大学",
+      "officialName": "西藏大学",
+      "schoolId": "4154010694",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "西财天府",
+      "officialName": "西南财经大学天府学院",
+      "schoolId": "4151014037",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "诺丁汉",
+      "officialName": "宁波诺丁汉大学",
+      "schoolId": "4133016301",
+      "ownership": "合作办学",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "贵州中医",
+      "officialName": "贵州中医药大学",
+      "schoolId": "4152010662",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "贵州大学",
+      "officialName": "贵州大学",
+      "schoolId": "4152010657",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "贵州师院",
+      "officialName": "贵州师范学院",
+      "schoolId": "4152014223",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "贵州财大",
+      "officialName": "贵州财经大学",
+      "schoolId": "4152010671",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "赣东学院",
+      "officialName": "赣东学院",
+      "schoolId": "4136013432",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "赣农商院",
+      "officialName": "江西农业大学南昌商学院",
+      "schoolId": "4136013436",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-exception"
+    },
+    {
+      "school": "赣南医大",
+      "officialName": "赣南医科大学",
+      "schoolId": "4136010413",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "赣南师大",
+      "officialName": "赣南师范大学",
+      "schoolId": "4136010418",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "赣南科院",
+      "officialName": "赣南科技学院",
+      "schoolId": "4136013434",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "赣师科技",
+      "officialName": "赣南师范大学科技学院",
+      "schoolId": "4136013439",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-exception"
+    },
+    {
+      "school": "赣应科院",
+      "officialName": "江西应用科技学院",
+      "schoolId": "4136012938",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-exception"
+    },
+    {
+      "school": "辽宁中医",
+      "officialName": "辽宁中医药大学",
+      "schoolId": "4121010162",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "辽宁何氏",
+      "officialName": "辽宁何氏医学院",
+      "schoolId": "4121013610",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "辽宁外贸",
+      "officialName": "辽宁对外经贸学院",
+      "schoolId": "4121010841",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "辽宁大学",
+      "officialName": "辽宁大学",
+      "schoolId": "4121010140",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "辽宁工程",
+      "officialName": "辽宁工程技术大学",
+      "schoolId": "4121010147",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "辽宁师大",
+      "officialName": "辽宁师范大学",
+      "schoolId": "4121010165",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "辽宁石化",
+      "officialName": "辽宁石油化工大学",
+      "schoolId": "4121010148",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "辽宁科大",
+      "officialName": "辽宁科技大学",
+      "schoolId": "4121010146",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "运城职大",
+      "officialName": "运城职业技术大学",
+      "schoolId": "4114014226",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "邵阳学院",
+      "officialName": "邵阳学院",
+      "schoolId": "4143010547",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "郑州大学",
+      "officialName": "郑州大学",
+      "schoolId": "4141010459",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "郑州航空",
+      "officialName": "郑州航空工业管理学院",
+      "schoolId": "4141010485",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "郑州轻工",
+      "officialName": "郑州轻工业大学",
+      "schoolId": "4141010462",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "鄂医药护",
+      "officialName": "湖北医药学院药护学院",
+      "schoolId": "4142013249",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "重庆交大",
+      "officialName": "重庆交通大学",
+      "schoolId": "4150010618",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "重庆医大",
+      "officialName": "重庆医科大学",
+      "schoolId": "4150010631",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "重庆城科",
+      "officialName": "重庆城市科技学院",
+      "schoolId": "4150012616",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "重庆外事",
+      "officialName": "重庆外语外事学院",
+      "schoolId": "4150013588",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "重庆外贸",
+      "officialName": "重庆对外经贸学院",
+      "schoolId": "4150013589",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "重庆大学",
+      "officialName": "重庆大学",
+      "schoolId": "4150010611",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "重庆工商",
+      "officialName": "重庆工商大学",
+      "schoolId": "4150011799",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "重庆师大",
+      "officialName": "重庆师范大学",
+      "schoolId": "4150010637",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "重庆理工",
+      "officialName": "重庆理工大学",
+      "schoolId": "4150011660",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "重庆科大",
+      "officialName": "重庆科技大学",
+      "schoolId": "4150011551",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "重庆移通",
+      "officialName": "重庆移通学院",
+      "schoolId": "4150013627",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "重庆邮电",
+      "officialName": "重庆邮电大学",
+      "schoolId": "4150010617",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "金陵科技",
+      "officialName": "金陵科技学院",
+      "schoolId": "4132013573",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "锦州医大",
+      "officialName": "锦州医科大学",
+      "schoolId": "4121010160",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "长安大学",
+      "officialName": "长安大学",
+      "schoolId": "4161010710",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "长春中医",
+      "officialName": "长春中医药大学",
+      "schoolId": "4122010199",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "长春工大",
+      "officialName": "长春工业大学",
+      "schoolId": "4122010190",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "长春工程",
+      "officialName": "长春工程学院",
+      "schoolId": "4122011437",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "长春建筑",
+      "officialName": "长春建筑学院",
+      "schoolId": "4122013605",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "长春理工",
+      "officialName": "长春理工大学",
+      "schoolId": "4122010186",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "长春财经",
+      "officialName": "长春财经学院",
+      "schoolId": "4122013603",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "长江大学",
+      "officialName": "长江大学",
+      "schoolId": "4142010489",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "长沙医学",
+      "officialName": "长沙医学院",
+      "schoolId": "4143010823",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "长沙学院",
+      "officialName": "长沙学院",
+      "schoolId": "4143011077",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "长沙理工",
+      "officialName": "长沙理工大学",
+      "schoolId": "4143010536",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "闽农金山",
+      "officialName": "福建农林大学金山学院",
+      "schoolId": "4135014046",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "陕西师大",
+      "officialName": "陕西师范大学",
+      "schoolId": "4161010718",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "陕西理工",
+      "officialName": "陕西理工大学",
+      "schoolId": "4161010720",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "陕西科大",
+      "officialName": "陕西科技大学",
+      "schoolId": "4161010708",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "集美大学",
+      "officialName": "集美大学",
+      "schoolId": "4135010390",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "集美诚毅",
+      "officialName": "集美大学诚毅学院",
+      "schoolId": "4135013471",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "青岛农大",
+      "officialName": "青岛农业大学",
+      "schoolId": "4137010435",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "青岛大学",
+      "officialName": "青岛大学",
+      "schoolId": "4137011065",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "青岛恒星",
+      "officialName": "青岛恒星科技学院",
+      "schoolId": "4137013015",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "青岛理工",
+      "officialName": "青岛理工大学",
+      "schoolId": "4137010429",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "青岛电影",
+      "officialName": "青岛电影学院",
+      "schoolId": "4137014327",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "青岛科大",
+      "officialName": "青岛科技大学",
+      "schoolId": "4137010426",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "青海大学",
+      "officialName": "青海大学",
+      "schoolId": "4163010743",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "青海理工",
+      "officialName": "青海理工学院",
+      "schoolId": "4163014881",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "韶关学院",
+      "officialName": "韶关学院",
+      "schoolId": "4144010576",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "首师科德",
+      "officialName": "首都师范大学科德学院",
+      "schoolId": "4111013629",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "首都体院",
+      "officialName": "首都体育学院",
+      "schoolId": "4111010029",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "首都师大",
+      "officialName": "首都师范大学",
+      "schoolId": "4111010028",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "首都经贸",
+      "officialName": "首都经济贸易大学",
+      "schoolId": "4111010038",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "鲁东大学",
+      "officialName": "鲁东大学",
+      "schoolId": "4137010451",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "黄淮学院",
+      "officialName": "黄淮学院",
+      "schoolId": "4141010918",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "黑外国语",
+      "officialName": "黑龙江外国语学院",
+      "schoolId": "4123013296",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "黑科大",
+      "officialName": "黑龙江科技大学",
+      "schoolId": "4123010219",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "黑龙江大",
+      "officialName": "黑龙江大学",
+      "schoolId": "4123010212",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-nearest"
+    },
+    {
+      "school": "齐医学院",
+      "officialName": "齐齐哈尔医学院",
+      "schoolId": "4123011230",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "reviewed-exception"
+    },
+    {
+      "school": "齐鲁医药",
+      "officialName": "齐鲁医药学院",
+      "schoolId": "4137010825",
+      "ownership": "民办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "齐鲁工大",
+      "officialName": "齐鲁工业大学",
+      "schoolId": "4137010431",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    },
+    {
+      "school": "齐齐哈尔",
+      "officialName": "齐齐哈尔大学",
+      "schoolId": "4123010232",
+      "ownership": "公办",
+      "source": "https://hudong.moe.gov.cn/jyb_xxgk/s5743/s5744/A03/202506/t20250627_1195683.html",
+      "match": "exact-alias"
+    }
+  ],
+  "unresolved": [],
+  "summary": {
+    "pdfSchools": 641,
+    "verified": 641,
+    "unresolved": 0,
+    "byOwnership": {
+      "民办": 113,
+      "公办": 521,
+      "合作办学": 6,
+      "军队院校": 1
+    }
+  }
+}

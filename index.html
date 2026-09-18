@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content="用 2025 上海投档数据，对照普通高考与美术艺考两条升学路径。" />
+    <meta name="theme-color" content="#f4f6f5" />
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%231b2420'/%3E%3Cpath d='M9 23V9h4v14M19 23V9h4v14' stroke='%23ff5c35' stroke-width='2.5'/%3E%3Ccircle cx='11' cy='15' r='3' fill='%23f4f6f5'/%3E%3Ccircle cx='21' cy='18' r='3' fill='%23f4f6f5'/%3E%3C/svg%3E" />
+    <title>升学坐标 · 上海美术艺考分数地图</title>
+    <link rel="stylesheet" href="./src/styles.css" />
+  </head>
+  <body>
+    <main class="app-shell">
+      <header class="topbar">
+        <div class="brand-block">
+          <p class="eyebrow">SHANGHAI · 2025</p>
+          <h1>上海高考 · 升学坐标</h1>
+          <p>输入文化分和美术统考分，对照 2025 年普通本科与美术艺考投档线；艺考综合分＝文化分 × 0.5＋专业分 × 1.1。</p>
+        </div>
+        <label class="year-control">
+          <span>参考数据年份</span>
+          <select id="year" aria-label="参考数据年份"><option>2025</option></select>
+        </label>
+      </header>
+
+      <section class="score-console" aria-label="成绩设置">
+        <div class="score-input general-input">
+          <div class="input-heading">
+            <label for="cultureRange">文化成绩</label>
+            <div><input id="cultureNumber" type="number" min="302" max="660" value="470" /><span>分</span></div>
+          </div>
+          <input id="cultureRange" type="range" min="302" max="660" value="470" aria-label="文化成绩滑块" />
+          <div class="range-ends"><span>302 · 艺术类本科文化线</span><span>660</span></div>
+        </div>
+        <div class="score-input art-input">
+          <div class="input-heading">
+            <label for="artRange">美术专业分</label>
+            <div><input id="artNumber" type="number" min="180" max="300" step="0.1" value="250" /><span>分</span></div>
+          </div>
+          <input id="artRange" type="range" min="180" max="300" step="0.1" value="250" aria-label="美术专业成绩滑块" />
+          <div class="range-ends"><span>180</span><span>300</span></div>
+        </div>
+        <div class="combined-output">
+          <span>艺考综合分</span>
+          <strong id="combinedScore">510.00</strong>
+          <small id="formulaText">470 × 0.5 + 250 × 1.1</small>
+        </div>
+      </section>
+
+      <section class="mobile-tabs" aria-label="路径切换">
+        <button class="active" data-tab="general" type="button">普通高考</button>
+        <button data-tab="art" type="button">美术艺考</button>
+      </section>
+
+      <section class="rails" data-active="general">
+        <article class="rail-panel general-panel">
+          <header class="rail-header">
+            <div><span class="route-index">01</span><h2>普通高考路径</h2></div>
+            <div class="rail-actions"><p>按文化成绩 · 普通本科批</p><button id="generalExpand" class="rail-expand" type="button" aria-expanded="false" aria-controls="generalViewport">展开全部学校</button></div>
+          </header>
+          <div class="rail-viewport" id="generalViewport">
+            <div class="rail-list" id="generalList" aria-live="polite"></div>
+            <div class="fixed-guide general-guide" aria-hidden="true"></div>
+          </div>
+          <p class="rail-footnote" id="generalFootnote">在分数尺内上下滚动，可浏览全部学校。</p>
+        </article>
+
+        <article class="rail-panel art-panel">
+          <header class="rail-header">
+            <div><span class="route-index">02</span><h2>美术艺考路径</h2></div>
+            <p>按综合分 · 艺术甲批</p>
+          </header>
+          <div class="rank-strip">
+            <span>2025 参考位次</span>
+            <strong id="rankValue">约前 527 名</strong>
+            <small id="rankBand">投档成绩 510.0000–510.9999</small>
+          </div>
+          <div class="rail-viewport art-viewport" id="artViewport">
+            <div class="rail-list" id="artList" aria-live="polite"></div>
+            <div class="fixed-guide art-guide" aria-hidden="true"></div>
+          </div>
+        </article>
+      </section>
+
+      <section class="target-section">
+        <div class="section-heading">
+          <p class="eyebrow">TARGET BACK-CALCULATION</p>
+          <h2>目标院校反推</h2>
+          <p>选择一所艺术类院校专业组，分别反推需要的文化分和专业分。</p>
+        </div>
+        <div class="target-workspace">
+          <label class="target-picker" for="targetSchool">
+            <span>目标院校专业组</span>
+            <select id="targetSchool"></select>
+          </label>
+          <div class="target-score"><span>2025 投档线</span><strong id="targetCutoff">525.88</strong></div>
+          <div class="requirement" id="cultureRequirement"></div>
+          <div class="requirement" id="artRequirement"></div>
+        </div>
+      </section>
+
+      <footer>
+        <p>投档线来源：上海市教育考试院 2025 年文件；办学性质参考教育部 2025 年全国高校名单。均为历史数据参考，不构成录取承诺。</p>
+        <button id="detailToggle" type="button" aria-pressed="false">切换至详细模式</button>
+      </footer>
+    </main>
+    <script defer src="./src/data/admission-bundle-2025.js"></script>
+    <script defer src="./src/app.js"></script>
+  </body>
+</html>
